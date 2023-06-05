@@ -64,6 +64,7 @@ writable/debugbar/*
 
 php_errors.log
 
+frontend/uikit
 #-------------------------
 # User Guide Temp Files
 #-------------------------
