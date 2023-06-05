@@ -14,12 +14,16 @@ function App() {
           <div class="sh-text-center sh-card sh-card-default sh-card-body">
             <h3>Комнаты</h3>
             {/* image from https://nagornydom.ru/catalog/turn_6/floor_229/flat_1295/ */}
-            <img class="sh-animation-stroke" width="200" src="/static/images/rooms.svg" alt="" />
+            <a href="/rooms.html">
+              <img class="sh-animation-stroke" width="200" src="/static/images/rooms.svg" alt="" />
+            </a>
           </div>
           <div class="sh-text-center sh-card sh-card-default sh-card-body sh-margin-top">
             <h3>Работы</h3>
             {/* image from http://akbars-eng.ru/construction/ */}
-            <img class="sh-animation-stroke" width="200" src="/static/images/develop.svg" alt="" />
+            <a href="/constructions.html">
+              <img class="sh-animation-stroke" width="200" src="/static/images/develop.svg" alt="" />
+            </a>
           </div>
         </div>
       </div>
