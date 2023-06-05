@@ -1,0 +1,4971 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 679.00001 696.99998"
+   version="1.1"
+   id="svg715"
+   sodipodi:docname="develop.svg"
+   width="679"
+   height="697"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview717"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.68834193"
+     inkscape:cx="119.85322"
+     inkscape:cy="215.7358"
+     inkscape:window-width="1366"
+     inkscape:window-height="714"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg715" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">
+      .cls-1, .cls-12, .cls-15, .cls-2, .cls-21, .cls-22, .cls-24, .cls-25, .cls-26, .cls-27, .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill: none;
+      }
+
+      .cls-1, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-2, .cls-27, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        stroke: #5c5d5e;
+      }
+
+      .cls-1, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-2, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-27, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-width: 0.5px;
+      }
+
+      .cls-2 {
+        stroke-dasharray: 4.991 4.991;
+      }
+
+      .cls-3 {
+        stroke-dasharray: 4.979 4.979;
+      }
+
+      .cls-4 {
+        stroke-dasharray: 4.989 4.989;
+      }
+
+      .cls-5 {
+        stroke-dasharray: 5.02 5.02;
+      }
+
+      .cls-6 {
+        stroke-dasharray: 5;
+      }
+
+      .cls-11, .cls-14, .cls-19, .cls-20, .cls-7 {
+        fill: #e5e6e6;
+      }
+
+      .cls-23, .cls-8 {
+        fill: #82aeac;
+      }
+
+      .cls-17, .cls-9 {
+        fill: #f3f3f3;
+      }
+
+      .cls-10, .cls-13, .cls-16, .cls-18 {
+        fill: #d1d2d3;
+      }
+
+      .cls-10, .cls-11, .cls-20, .cls-23, .cls-24, .cls-25 {
+        stroke-linejoin: round;
+      }
+
+      .cls-10, .cls-11, .cls-13, .cls-14 {
+        stroke-width: 2px;
+      }
+
+      .cls-15, .cls-18 {
+        stroke-width: 0.75px;
+      }
+
+      .cls-17 {
+        stroke-linecap: round;
+      }
+
+      .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26 {
+        stroke: #58595b;
+      }
+
+      .cls-21, .cls-25 {
+        stroke-linecap: square;
+      }
+
+      .cls-26 {
+        stroke-linejoin: bevel;
+      }
+
+      .cls-27 {
+        stroke-dasharray: 5.009 5.009;
+      }
+    </style>
+  </defs>
+  <g
+     id="g41850"
+     transform="translate(2)">
+    <g
+       id="Group_7385"
+       data-name="Group 7385"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <line
+         id="Line_12538"
+         data-name="Line 12538"
+         class="cls-7"
+         x1="235.3"
+         y1="136.10001"
+         transform="translate(930,147.3)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12539"
+         data-name="Line 12539"
+         class="cls-7"
+         x1="236.3"
+         y1="135.7"
+         transform="translate(916.1,155.3)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12540"
+         data-name="Line 12540"
+         class="cls-7"
+         x1="235.89999"
+         y1="135.89999"
+         transform="translate(916.7,170.1)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12541"
+         data-name="Line 12541"
+         class="cls-7"
+         x1="25.9"
+         y2="15.1"
+         transform="translate(1139.4,283.4)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12542"
+         data-name="Line 12542"
+         class="cls-7"
+         x1="25.9"
+         y2="14.7"
+         transform="translate(1126.6,276)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12543"
+         data-name="Line 12543"
+         class="cls-7"
+         x1="26.6"
+         y2="15.5"
+         transform="translate(1113.3,268.1)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12544"
+         data-name="Line 12544"
+         class="cls-7"
+         x1="26"
+         y2="14.8"
+         transform="translate(1100.3,260.8)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12545"
+         data-name="Line 12545"
+         class="cls-7"
+         x1="26.1"
+         y2="14.9"
+         transform="translate(1087.2,253.2)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12546"
+         data-name="Line 12546"
+         class="cls-7"
+         x1="26.700001"
+         y2="15.2"
+         transform="translate(1073.9,245.5)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12547"
+         data-name="Line 12547"
+         class="cls-7"
+         x1="26.700001"
+         y2="15.2"
+         transform="translate(1060.8,237.9)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12548"
+         data-name="Line 12548"
+         class="cls-7"
+         x1="26.1"
+         y2="15"
+         transform="translate(1047.7,230.6)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12549"
+         data-name="Line 12549"
+         class="cls-7"
+         x1="25.9"
+         y2="14.9"
+         transform="translate(1034.8,223)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12550"
+         data-name="Line 12550"
+         class="cls-7"
+         x1="26.200001"
+         y2="15.1"
+         transform="translate(1021.5,215.4)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12551"
+         data-name="Line 12551"
+         class="cls-7"
+         x1="26.1"
+         y2="15"
+         transform="translate(1008.5,207.9)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12552"
+         data-name="Line 12552"
+         class="cls-7"
+         x1="52.5"
+         y2="30.4"
+         transform="translate(969.1,200.2)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12553"
+         data-name="Line 12553"
+         class="cls-7"
+         x1="39.200001"
+         y2="22.6"
+         transform="translate(969.1,192.8)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12554"
+         data-name="Line 12554"
+         class="cls-7"
+         x1="27.200001"
+         y2="15.4"
+         transform="translate(968.5,185.1)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12555"
+         data-name="Line 12555"
+         class="cls-7"
+         x1="26.4"
+         y2="15.2"
+         transform="translate(956,177.6)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12556"
+         data-name="Line 12556"
+         class="cls-7"
+         x1="26.4"
+         y2="15.1"
+         transform="translate(942.9,170.1)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12557"
+         data-name="Line 12557"
+         class="cls-7"
+         x1="26.5"
+         y2="15.1"
+         transform="translate(929.6,162.6)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12558"
+         data-name="Line 12558"
+         class="cls-7"
+         x1="26.9"
+         y2="15.2"
+         transform="translate(916.2,155)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12559"
+         data-name="Line 12559"
+         class="cls-7"
+         x1="13.9"
+         y2="8"
+         transform="translate(916.1,147.3)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12560"
+         data-name="Line 12560"
+         class="cls-7"
+         x2="0.30000001"
+         y2="226.5"
+         transform="translate(968.8,170.4)"
+         x1="0"
+         y1="0" />
+      <line
+         id="Line_12561"
+         data-name="Line 12561"
+         class="cls-7"
+         x2="0.5"
+         y2="226.5"
+         transform="translate(981.7,177.9)"
+         x1="0"
+         y1="0" />
+      <line
+         id="Line_12562"
+         data-name="Line 12562"
+         class="cls-7"
+         x2="0.40000001"
+         y2="196.3"
+         transform="translate(994.9,200.6)"
+         x1="0"
+         y1="0" />
+      <line
+         id="Line_12563"
+         data-name="Line 12563"
+         class="cls-7"
+         x2="0.1"
+         y2="30"
+         transform="translate(1152.5,276)"
+         x1="0"
+         y1="0" />
+      <line
+         id="Line_12564"
+         data-name="Line 12564"
+         class="cls-7"
+         x2="0.2"
+         y2="30.1"
+         transform="translate(1139.2,268.4)"
+         x1="0"
+         y1="0" />
+      <line
+         id="Line_12565"
+         data-name="Line 12565"
+         class="cls-7"
+         x2="0.1"
+         y2="30"
+         transform="translate(1126.4,261.2)"
+         x1="0"
+         y1="0" />
+      <line
+         id="Line_12566"
+         data-name="Line 12566"
+         class="cls-7"
+         x2="0.1"
+         y2="30"
+         transform="translate(1113.2,253.6)"
+         x1="0"
+         y1="0" />
+      <line
+         id="Line_12567"
+         data-name="Line 12567"
+         class="cls-7"
+         x2="0.1"
+         y2="30"
+         transform="translate(1100.2,246.1)"
+         x1="0"
+         y1="0" />
+      <line
+         id="Line_12568"
+         data-name="Line 12568"
+         class="cls-7"
+         x2="0.1"
+         y2="30"
+         transform="translate(1087.1,238.1)"
+         x1="0"
+         y1="0" />
+      <line
+         id="Line_12569"
+         data-name="Line 12569"
+         class="cls-7"
+         x2="0.1"
+         y2="30"
+         transform="translate(1073.8,230.7)"
+         x1="0"
+         y1="0" />
+      <line
+         id="Line_12570"
+         data-name="Line 12570"
+         class="cls-7"
+         x2="0.1"
+         y2="30"
+         transform="translate(1060.7,223.1)"
+         x1="0"
+         y1="0" />
+      <line
+         id="Line_12571"
+         data-name="Line 12571"
+         class="cls-7"
+         x2="0.1"
+         y2="30.1"
+         transform="translate(1047.6,215.5)"
+         x1="0"
+         y1="0" />
+      <line
+         id="Line_12572"
+         data-name="Line 12572"
+         class="cls-7"
+         x2="0.2"
+         y2="30"
+         transform="translate(1034.6,207.9)"
+         x1="0"
+         y1="0" />
+      <line
+         id="Line_12573"
+         data-name="Line 12573"
+         class="cls-7"
+         x2="0.1"
+         y2="30.1"
+         transform="translate(1021.4,200.4)"
+         x1="0"
+         y1="0" />
+      <line
+         id="Line_12574"
+         data-name="Line 12574"
+         class="cls-7"
+         x2="0.2"
+         y2="30.1"
+         transform="translate(1008.3,192.8)"
+         x1="0"
+         y1="0" />
+      <line
+         id="Line_12575"
+         data-name="Line 12575"
+         class="cls-7"
+         x1="0.1"
+         y2="30.299999"
+         transform="translate(956,162.5)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12576"
+         data-name="Line 12576"
+         class="cls-7"
+         x2="0.1"
+         y2="30.200001"
+         transform="translate(942.8,155)"
+         x1="0"
+         y1="0" />
+      <line
+         id="Line_12577"
+         data-name="Line 12577"
+         class="cls-7"
+         y2="30.200001"
+         transform="translate(929.6,147.5)"
+         x1="0"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12578"
+         data-name="Line 12578"
+         class="cls-7"
+         x2="0.30000001"
+         y2="15.1"
+         transform="translate(916.4,155)"
+         x1="0"
+         y1="0" />
+      <line
+         id="Line_12579"
+         data-name="Line 12579"
+         class="cls-7"
+         x1="0.30000001"
+         y2="15.3"
+         transform="translate(994.9,185.3)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12580"
+         data-name="Line 12580"
+         class="cls-7"
+         y1="7.4000001"
+         x2="12.9"
+         transform="translate(1152.6,298.6)"
+         x1="0"
+         y2="0" />
+      <line
+         id="Line_12581"
+         data-name="Line 12581"
+         class="cls-7"
+         x2="0.2"
+         y2="15.2"
+         transform="translate(1165.3,283.4)"
+         x1="0"
+         y1="0" />
+      <line
+         id="Line_12582"
+         data-name="Line 12582"
+         class="cls-7"
+         x2="13.1"
+         y2="7.5999999"
+         transform="translate(1152.4,291)"
+         x1="0"
+         y1="0" />
+      <line
+         id="Line_12583"
+         data-name="Line 12583"
+         class="cls-7"
+         x1="10.5"
+         y1="6"
+         transform="translate(1162,296.6)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12584"
+         data-name="Line 12584"
+         class="cls-7"
+         x2="7.1999998"
+         y2="19.200001"
+         transform="translate(1165.3,283.4)"
+         x1="0"
+         y1="0" />
+      <line
+         id="Line_12585"
+         data-name="Line 12585"
+         class="cls-7"
+         x1="7.1999998"
+         y1="4.4000001"
+         transform="translate(1152.6,306)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12586"
+         data-name="Line 12586"
+         class="cls-7"
+         x1="12.7"
+         y2="7.8000002"
+         transform="translate(1159.8,302.6)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12587"
+         data-name="Line 12587"
+         class="cls-7"
+         x2="7.4000001"
+         y2="19.4"
+         transform="translate(1152.4,291)"
+         x1="0"
+         y1="0" />
+      <line
+         id="Line_12588"
+         data-name="Line 12588"
+         class="cls-7"
+         x1="26.200001"
+         y1="15.2"
+         transform="translate(969.1,215.4)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12589"
+         data-name="Line 12589"
+         class="cls-7"
+         x1="26.200001"
+         y1="15.1"
+         transform="translate(969,230.5)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12590"
+         data-name="Line 12590"
+         class="cls-7"
+         x1="26.1"
+         y1="15.1"
+         transform="translate(969.1,245.7)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12591"
+         data-name="Line 12591"
+         class="cls-7"
+         x1="26.1"
+         y1="15.1"
+         transform="translate(968.9,260.7)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12592"
+         data-name="Line 12592"
+         class="cls-7"
+         x1="26.1"
+         y1="15.1"
+         transform="translate(968.9,275.1)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12593"
+         data-name="Line 12593"
+         class="cls-7"
+         x1="26.200001"
+         y2="15.1"
+         transform="translate(969.1,230.6)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12594"
+         data-name="Line 12594"
+         class="cls-7"
+         x1="26.299999"
+         y2="15.1"
+         transform="translate(968.7,245.6)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12595"
+         data-name="Line 12595"
+         class="cls-7"
+         x1="26.200001"
+         y2="15.1"
+         transform="translate(969.2,260.4)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12596"
+         data-name="Line 12596"
+         class="cls-7"
+         x1="26.200001"
+         y2="15.1"
+         transform="translate(969.2,275.7)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12597"
+         data-name="Line 12597"
+         class="cls-7"
+         x1="13.4"
+         y1="52.900002"
+         transform="translate(982.3,132.2)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12598"
+         data-name="Line 12598"
+         class="cls-7"
+         y1="61.099998"
+         x2="1.1"
+         transform="translate(981.2,132.2)"
+         x1="0"
+         y2="0" />
+      <line
+         id="Line_12599"
+         data-name="Line 12599"
+         class="cls-7"
+         y1="52.900002"
+         x2="13.1"
+         transform="translate(969.2,132.2)"
+         x1="0"
+         y2="0" />
+      <line
+         id="Line_12600"
+         data-name="Line 12600"
+         class="cls-7"
+         x1="65.900002"
+         y2="22.799999"
+         transform="translate(916.4,132.2)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12601"
+         data-name="Line 12601"
+         class="cls-7"
+         y1="15.3"
+         x2="52.700001"
+         transform="translate(929.6,132.2)"
+         x1="0"
+         y2="0" />
+      <g
+         id="Group_7383"
+         data-name="Group 7383">
+        <path
+           id="Path_17608"
+           data-name="Path 17608"
+           class="cls-8"
+           d="m 982,207.9 -0.1,15.1 -26.1,-15.2 -0.1,-15.1 z" />
+        <path
+           id="Path_17609"
+           data-name="Path 17609"
+           class="cls-8"
+           d="m 995,200.3 v 15.5 l -13.1,7.2 0.1,-15.1 z" />
+        <path
+           id="Path_17610"
+           data-name="Path 17610"
+           class="cls-8"
+           d="m 995,200.3 -26,-15.1 -13.3,7.5 26.3,15.2 z" />
+      </g>
+      <g
+         id="Group_7384"
+         data-name="Group 7384">
+        <path
+           id="Path_17611"
+           data-name="Path 17611"
+           class="cls-8"
+           d="m 1196.5,334.7 -21.1,-12.2 -42.2,24.4 21,12.2 z" />
+        <path
+           id="Path_17612"
+           data-name="Path 17612"
+           class="cls-8"
+           d="m 1154.2,362.6 42.3,-24.3 v -3.6 l -42.2,24.2 z" />
+        <path
+           id="Path_17613"
+           data-name="Path 17613"
+           class="cls-8"
+           d="m 1154.4,362.6 -21.1,-12.1 v -3.7 l 21.1,12.1 z" />
+      </g>
+      <line
+         id="Line_12602"
+         data-name="Line 12602"
+         class="cls-7"
+         x1="8.1000004"
+         y2="43.5"
+         transform="translate(1154.2,315.6)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12603"
+         data-name="Line 12603"
+         class="cls-7"
+         y1="31.299999"
+         x2="29.1"
+         transform="translate(1133.2,315.6)"
+         x1="0"
+         y2="0" />
+      <line
+         id="Line_12604"
+         data-name="Line 12604"
+         class="cls-7"
+         x1="34.200001"
+         y1="19.1"
+         transform="translate(1162.3,315.6)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12605"
+         data-name="Line 12605"
+         class="cls-7"
+         x1="13.1"
+         y1="6.9000001"
+         transform="translate(1162.3,315.6)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12606"
+         data-name="Line 12606"
+         class="cls-7"
+         x2="0.5"
+         y2="14.9"
+         transform="translate(1161.8,300.7)"
+         x1="0"
+         y1="0" />
+      <circle
+         id="Ellipse_998"
+         data-name="Ellipse 998"
+         class="cls-7"
+         cx="1.5"
+         cy="1.5"
+         r="1.5"
+         transform="translate(1161.1,313.8)" />
+      <line
+         id="Line_12607"
+         data-name="Line 12607"
+         class="cls-7"
+         x1="0.30000001"
+         y1="8.8999996"
+         transform="translate(982,123.3)"
+         x2="0"
+         y2="0" />
+      <rect
+         id="Rectangle_3478"
+         data-name="Rectangle 3478"
+         class="cls-7"
+         width="1.7"
+         height="3.8"
+         transform="rotate(180,491.5635,66.1695)"
+         x="0"
+         y="0" />
+    </g>
+    <line
+       id="Line_12608"
+       data-name="Line 12608"
+       class="cls-9"
+       x1="172.60765"
+       y2="209.50409"
+       y1="136.05313"
+       x2="172.5076"
+       style="stroke-width:1.00035" />
+    <g
+       id="Group_7386"
+       data-name="Group 7386"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <path
+         id="Path_17614"
+         data-name="Path 17614"
+         class="cls-10"
+         d="M 1108.8,656.8 841,811.4 l -0.4,-15 268.2,-154.3 z" />
+      <path
+         id="Path_17615"
+         data-name="Path 17615"
+         class="cls-10"
+         d="m 1249,737.8 -140.2,81 -0.4,-15 140.6,-80.7 z" />
+      <path
+         id="Path_17616"
+         data-name="Path 17616"
+         class="cls-11"
+         d="M 624.2,686.3 841,811.4 840.6,796.4 624.2,671.5 Z" />
+      <path
+         id="Path_17617"
+         data-name="Path 17617"
+         class="cls-11"
+         d="m 968.4,737.7 140.4,81.1 -0.6,-14.4 L 968.4,723 Z" />
+      <path
+         id="Path_17618"
+         data-name="Path 17618"
+         class="cls-11"
+         d="m 1249,723.1 -144.5,-83.5 v 0 L 892,516.9 624.2,671.5 840.6,796.4 968.3,723 l 139.9,81.4 z" />
+    </g>
+    <g
+       id="Group_7388"
+       data-name="Group 7388"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <g
+         id="Group_7387"
+         data-name="Group 7387">
+        <path
+           id="Path_17619"
+           data-name="Path 17619"
+           class="cls-10"
+           d="m 853.5,775.4 -12.6,7.2 0.1,-47.2 12.7,-7.4 z" />
+        <path
+           id="Path_17620"
+           data-name="Path 17620"
+           class="cls-10"
+           d="m 828.4,775.4 12.5,7.2 0.1,-47.2 -12.8,-7.4 z" />
+      </g>
+    </g>
+    <line
+       id="Line_12609"
+       data-name="Line 12609"
+       class="cls-1"
+       y1="592.36969"
+       x2="424.3092"
+       x1="424.10919"
+       y2="554.24329" />
+    <line
+       id="Line_12610"
+       data-name="Line 12610"
+       class="cls-12"
+       y1="591.76929"
+       x2="425.30923"
+       x1="425.10922"
+       y2="553.64288"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12611"
+       data-name="Line 12611"
+       class="cls-1"
+       y1="607.0799"
+       x2="451.80939"
+       x1="451.60931"
+       y2="568.95349" />
+    <line
+       id="Line_12612"
+       data-name="Line 12612"
+       class="cls-12"
+       y1="607.98059"
+       x2="452.80939"
+       x1="452.60931"
+       y2="569.85406"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12613"
+       data-name="Line 12613"
+       class="cls-1"
+       y1="634.39886"
+       x2="500.10962"
+       x1="499.90967"
+       y2="596.27246" />
+    <line
+       id="Line_12614"
+       data-name="Line 12614"
+       class="cls-12"
+       y1="635.19946"
+       x2="501.10962"
+       x1="500.90967"
+       y2="597.073"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12615"
+       data-name="Line 12615"
+       class="cls-1"
+       x2="424.00916"
+       y2="592.46979"
+       x1="403.40906"
+       y1="550.54071" />
+    <line
+       id="Line_12616"
+       data-name="Line 12616"
+       class="cls-12"
+       x2="424.90921"
+       y2="591.86932"
+       x1="404.40906"
+       y1="550.14044"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12617"
+       data-name="Line 12617"
+       class="cls-12"
+       y1="592.46979"
+       x2="452.50934"
+       x1="423.90918"
+       y2="579.76099"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12618"
+       data-name="Line 12618"
+       class="cls-1"
+       y1="591.36902"
+       x2="451.90936"
+       x1="423.50916"
+       y2="578.76025" />
+    <line
+       id="Line_12619"
+       data-name="Line 12619"
+       class="cls-1"
+       y1="620.98962"
+       x2="473.30951"
+       x1="473.00946"
+       y2="582.76306" />
+    <line
+       id="Line_12620"
+       data-name="Line 12620"
+       class="cls-12"
+       y1="620.38916"
+       x2="474.20956"
+       x1="474.00946"
+       y2="582.16266"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12621"
+       data-name="Line 12621"
+       class="cls-1"
+       x2="473.00946"
+       y2="620.98962"
+       x1="452.40936"
+       y1="579.16058" />
+    <line
+       id="Line_12622"
+       data-name="Line 12622"
+       class="cls-12"
+       x2="473.90948"
+       y2="620.48926"
+       x1="453.30939"
+       y1="578.76025"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12623"
+       data-name="Line 12623"
+       class="cls-12"
+       y1="621.08966"
+       x2="501.40967"
+       x1="472.80951"
+       y2="608.3808"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12624"
+       data-name="Line 12624"
+       class="cls-1"
+       y1="619.98889"
+       x2="500.90967"
+       x1="472.40948"
+       y2="607.28009" />
+    <line
+       id="Line_12625"
+       data-name="Line 12625"
+       class="cls-1"
+       y1="650.1098"
+       x2="521.50977"
+       x1="521.30981"
+       y2="611.98334" />
+    <line
+       id="Line_12626"
+       data-name="Line 12626"
+       class="cls-12"
+       y1="649.5094"
+       x2="522.50977"
+       x1="522.30981"
+       y2="611.38287"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12627"
+       data-name="Line 12627"
+       class="cls-1"
+       x2="521.20984"
+       y2="650.2099"
+       x1="500.60962"
+       y1="608.28076" />
+    <line
+       id="Line_12628"
+       data-name="Line 12628"
+       class="cls-12"
+       x2="522.10974"
+       y2="649.60944"
+       x1="501.60962"
+       y1="607.88043"
+       style="stroke-width:1.00035" />
+    <g
+       id="Group_7390"
+       data-name="Group 7390"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <g
+         id="Group_7389"
+         data-name="Group 7389">
+        <path
+           id="Path_17621"
+           data-name="Path 17621"
+           class="cls-10"
+           d="m 674.6,672 -12.5,7.3 v -47.2 l 12.8,-7.4 z" />
+        <path
+           id="Path_17622"
+           data-name="Path 17622"
+           class="cls-10"
+           d="m 649.5,672 12.6,7.3 v -47.2 l -12.7,-7.4 z" />
+      </g>
+    </g>
+    <g
+       id="Group_7392"
+       data-name="Group 7392"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <g
+         id="Group_7391"
+         data-name="Group 7391">
+        <path
+           id="Path_17623"
+           data-name="Path 17623"
+           class="cls-10"
+           d="m 981,701.8 -12.6,7.2 0.1,-47.2 12.7,-7.4 z" />
+        <path
+           id="Path_17624"
+           data-name="Path 17624"
+           class="cls-10"
+           d="m 955.9,701.8 12.5,7.2 0.1,-47.2 -12.8,-7.4 z" />
+      </g>
+    </g>
+    <g
+       id="Group_7394"
+       data-name="Group 7394"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <g
+         id="Group_7393"
+         data-name="Group 7393">
+        <path
+           id="Path_17625"
+           data-name="Path 17625"
+           class="cls-10"
+           d="m 1120.9,782.3 -12.5,7.2 v -47.2 l 12.8,-7.4 z" />
+        <path
+           id="Path_17626"
+           data-name="Path 17626"
+           class="cls-10"
+           d="m 1095.8,782.3 12.6,7.2 v -47.2 l -12.8,-7.4 z" />
+      </g>
+    </g>
+    <g
+       id="Group_7396"
+       data-name="Group 7396"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <g
+         id="Group_7395"
+         data-name="Group 7395">
+        <path
+           id="Path_17627"
+           data-name="Path 17627"
+           class="cls-10"
+           d="m 1222.9,723.6 -12.5,7.3 v -47.2 l 12.8,-7.4 z" />
+        <path
+           id="Path_17628"
+           data-name="Path 17628"
+           class="cls-10"
+           d="m 1197.8,723.6 12.6,7.3 v -47.2 l -12.8,-7.4 z" />
+      </g>
+    </g>
+    <g
+       id="Group_7397"
+       data-name="Group 7397"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <path
+         id="Path_17629"
+         data-name="Path 17629"
+         class="cls-13"
+         d="M 1108.8,583.2 841,737.8 l -0.4,-15 268.2,-154.3 z" />
+      <path
+         id="Path_17630"
+         data-name="Path 17630"
+         class="cls-13"
+         d="m 1249,664.2 -140.6,81.4 V 730.2 L 1249,649.4 Z" />
+      <path
+         id="Path_17631"
+         data-name="Path 17631"
+         class="cls-14"
+         d="M 624.2,612.6 841,737.8 840.6,722.8 624.2,597.9 Z" />
+      <path
+         id="Path_17632"
+         data-name="Path 17632"
+         class="cls-14"
+         d="m 968.4,664.1 140,81.5 v -14.7 l -140,-81.5 z" />
+      <path
+         id="Path_17633"
+         data-name="Path 17633"
+         class="cls-14"
+         d="M 1249,649.4 1104.5,566 v 0 L 892,443.3 624.2,597.9 l 216.4,124.9 127.7,-73.5 140.1,81.6 z" />
+    </g>
+    <g
+       id="Group_7398"
+       data-name="Group 7398"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <path
+         id="Path_17634"
+         data-name="Path 17634"
+         class="cls-8"
+         d="m 1020.7,659.6 9.7,6.1 0.1,-21.8 -9.8,-6 z" />
+      <path
+         id="Path_17635"
+         data-name="Path 17635"
+         class="cls-8"
+         d="m 1068.4,644 -38,21.7 v -21.8 l 38,-21.7 z" />
+      <path
+         id="Path_17636"
+         data-name="Path 17636"
+         class="cls-8"
+         d="m 1020.7,638 9.8,5.9 37.8,-21.7 -9.8,-5.9 z" />
+      <line
+         id="Line_12633"
+         data-name="Line 12633"
+         class="cls-8"
+         x1="0.1"
+         y2="21.1"
+         transform="translate(1058,628.5)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12634"
+         data-name="Line 12634"
+         class="cls-8"
+         y2="21"
+         transform="translate(1044.5,636.3)"
+         x1="0"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12635"
+         data-name="Line 12635"
+         class="cls-8"
+         x1="9.6999998"
+         y1="5.6999998"
+         transform="translate(1048.4,622.2)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12636"
+         data-name="Line 12636"
+         class="cls-8"
+         x1="9.6999998"
+         y1="5.8000002"
+         transform="translate(1034.8,630.1)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12637"
+         data-name="Line 12637"
+         class="cls-8"
+         x1="9.6000004"
+         y1="5.8000002"
+         transform="translate(1020.7,645.7)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12638"
+         data-name="Line 12638"
+         class="cls-8"
+         x1="9.6000004"
+         y1="5.8000002"
+         transform="translate(1020.7,652.4)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12639"
+         data-name="Line 12639"
+         class="cls-8"
+         x1="38"
+         y2="21.700001"
+         transform="translate(1030.4,629.7)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12640"
+         data-name="Line 12640"
+         class="cls-8"
+         x1="38"
+         y2="21.700001"
+         transform="translate(1030.2,636.5)"
+         y1="0"
+         x2="0" />
+    </g>
+    <g
+       id="Group_7399"
+       data-name="Group 7399"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <path
+         id="Path_17637"
+         data-name="Path 17637"
+         class="cls-8"
+         d="m 1041.5,666.9 9.7,6 v -21.7 l -9.7,-6.1 z" />
+      <path
+         id="Path_17638"
+         data-name="Path 17638"
+         class="cls-8"
+         d="m 1089.2,651.2 -38,21.7 -0.1,-21.8 38.1,-21.7 z" />
+      <path
+         id="Path_17639"
+         data-name="Path 17639"
+         class="cls-8"
+         d="m 1041.5,645.2 9.8,6 37.8,-21.7 -9.8,-6 z" />
+      <line
+         id="Line_12641"
+         data-name="Line 12641"
+         class="cls-8"
+         x1="0.1"
+         y2="21.200001"
+         transform="translate(1078.8,635.7)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12642"
+         data-name="Line 12642"
+         class="cls-8"
+         y2="21.1"
+         transform="translate(1065.3,643.5)"
+         x1="0"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12643"
+         data-name="Line 12643"
+         class="cls-8"
+         x1="9.6000004"
+         y1="5.6999998"
+         transform="translate(1069.2,629.4)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12644"
+         data-name="Line 12644"
+         class="cls-8"
+         x1="9.6000004"
+         y1="5.6999998"
+         transform="translate(1055.6,637.4)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12645"
+         data-name="Line 12645"
+         class="cls-8"
+         x1="9.6999998"
+         y1="5.6999998"
+         transform="translate(1041.4,653)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12646"
+         data-name="Line 12646"
+         class="cls-8"
+         x1="9.6999998"
+         y1="5.6999998"
+         transform="translate(1041.4,659.7)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12647"
+         data-name="Line 12647"
+         class="cls-8"
+         x1="38"
+         y2="21.799999"
+         transform="translate(1051.2,636.9)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12648"
+         data-name="Line 12648"
+         class="cls-8"
+         x1="37.900002"
+         y2="21.799999"
+         transform="translate(1051,643.7)"
+         y1="0"
+         x2="0" />
+    </g>
+    <g
+       id="Group_7400"
+       data-name="Group 7400"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <path
+         id="Path_17640"
+         data-name="Path 17640"
+         class="cls-9"
+         d="M 1011.2,504.9 1121,435.6 a 0.1,0.1 0 0 0 0.1,-0.1 c 1.3,-0.8 3.4,0.3 4.8,2.5 1.4,2.2 1.5,4.6 0.2,5.4 a 0.1,0.1 0 0 0 -0.1,0.1 l -109.8,69.3 z" />
+      <ellipse
+         id="Ellipse_999"
+         data-name="Ellipse 999"
+         class="cls-9"
+         cx="2.7"
+         cy="4.6999998"
+         rx="2.7"
+         ry="4.6999998"
+         transform="matrix(0.846,-0.533,0.533,0.846,1008.938,506.276)" />
+    </g>
+    <g
+       id="Group_7401"
+       data-name="Group 7401"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <path
+         id="Path_17641"
+         data-name="Path 17641"
+         class="cls-9"
+         d="m 1020,509 109.8,-69.3 a 0.1,0.1 0 0 0 0.1,-0.1 c 1.3,-0.8 3.4,0.3 4.8,2.5 1.4,2.2 1.5,4.6 0.2,5.4 a 0.1,0.1 0 0 0 -0.1,0.1 L 1025,517 Z" />
+      <ellipse
+         id="Ellipse_1000"
+         data-name="Ellipse 1000"
+         class="cls-9"
+         cx="2.7"
+         cy="4.6999998"
+         rx="2.7"
+         ry="4.6999998"
+         transform="matrix(0.846,-0.533,0.533,0.846,1017.744,510.471)" />
+    </g>
+    <g
+       id="Group_7402"
+       data-name="Group 7402"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <path
+         id="Path_17642"
+         data-name="Path 17642"
+         class="cls-9"
+         d="m 1028.4,514 109.8,-69.3 a 0.1,0.1 0 0 0 0.1,-0.1 c 1.3,-0.8 3.4,0.3 4.8,2.5 1.4,2.2 1.5,4.6 0.2,5.4 a 0.1,0.1 0 0 0 -0.1,0.1 l -109.8,69.3 z" />
+      <ellipse
+         id="Ellipse_1001"
+         data-name="Ellipse 1001"
+         class="cls-9"
+         cx="2.7"
+         cy="4.6999998"
+         rx="2.7"
+         ry="4.6999998"
+         transform="matrix(0.846,-0.533,0.533,0.846,1026.121,515.385)" />
+    </g>
+    <g
+       id="Group_7403"
+       data-name="Group 7403"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <path
+         id="Path_17643"
+         data-name="Path 17643"
+         class="cls-9"
+         d="M 1022,499.3 1131.8,430 a 0.1,0.1 0 0 0 0.1,-0.1 c 1.3,-0.8 3.4,0.3 4.8,2.5 1.4,2.2 1.5,4.6 0.2,5.4 a 0.1,0.1 0 0 0 -0.1,0.1 L 1027,507.2 Z" />
+      <ellipse
+         id="Ellipse_1002"
+         data-name="Ellipse 1002"
+         class="cls-9"
+         cx="2.7"
+         cy="4.6999998"
+         rx="2.7"
+         ry="4.6999998"
+         transform="matrix(0.846,-0.533,0.533,0.846,1019.72,500.669)" />
+    </g>
+    <g
+       id="Group_7404"
+       data-name="Group 7404"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <path
+         id="Path_17644"
+         data-name="Path 17644"
+         class="cls-9"
+         d="m 1028.8,504.7 109.8,-69.3 a 0.1,0.1 0 0 0 0.1,-0.1 c 1.3,-0.8 3.4,0.3 4.8,2.5 1.4,2.2 1.5,4.6 0.2,5.4 a 0.1,0.1 0 0 0 -0.1,0.1 l -109.8,69.3 z" />
+      <ellipse
+         id="Ellipse_1003"
+         data-name="Ellipse 1003"
+         class="cls-9"
+         cx="2.7"
+         cy="4.6999998"
+         rx="2.7"
+         ry="4.6999998"
+         transform="matrix(0.846,-0.533,0.533,0.846,1026.626,506.04)" />
+    </g>
+    <g
+       id="Group_7405"
+       data-name="Group 7405"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <path
+         id="Path_17645"
+         data-name="Path 17645"
+         class="cls-9"
+         d="m 1029.5,493.5 109.8,-69.3 a 0.1,0.1 0 0 0 0.1,-0.1 c 1.3,-0.8 3.4,0.3 4.8,2.5 1.4,2.2 1.5,4.6 0.2,5.4 a 0.1,0.1 0 0 0 -0.1,0.1 l -109.8,69.3 z" />
+      <ellipse
+         id="Ellipse_1004"
+         data-name="Ellipse 1004"
+         class="cls-9"
+         cx="2.7"
+         cy="4.6999998"
+         rx="2.7"
+         ry="4.6999998"
+         transform="matrix(0.846,-0.533,0.533,0.846,1027.233,494.88)" />
+    </g>
+    <g
+       id="Group_7407"
+       data-name="Group 7407"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <g
+         id="Group_7406"
+         data-name="Group 7406">
+        <path
+           id="Path_17646"
+           data-name="Path 17646"
+           class="cls-13"
+           d="m 1222.9,650.3 -12.5,7.2 v -47.2 l 12.8,-7.3 z" />
+        <path
+           id="Path_17647"
+           data-name="Path 17647"
+           class="cls-13"
+           d="m 1197.8,650.3 12.6,7.2 v -47.2 l -12.8,-7.3 z" />
+      </g>
+    </g>
+    <g
+       id="Group_7410"
+       data-name="Group 7410"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <line
+         id="Line_12649"
+         data-name="Line 12649"
+         class="cls-9"
+         x2="53.900002"
+         y2="3.8"
+         transform="translate(680.1,262.7)"
+         x1="0"
+         y1="0" />
+      <line
+         id="Line_12650"
+         data-name="Line 12650"
+         class="cls-9"
+         x2="0.40000001"
+         y2="94"
+         transform="translate(732.6,232.3)"
+         x1="0"
+         y1="0" />
+      <g
+         id="Group_7409"
+         data-name="Group 7409">
+        <line
+           id="Line_12651"
+           data-name="Line 12651"
+           class="cls-9"
+           y2="92.699997"
+           transform="translate(853.1,151.7)"
+           x1="0"
+           y1="0"
+           x2="0" />
+        <g
+           id="Group_7408"
+           data-name="Group 7408">
+          <line
+             id="Line_12652"
+             data-name="Line 12652"
+             class="cls-9"
+             x1="0.69999999"
+             y2="81.599998"
+             transform="translate(682.4,261.3)"
+             y1="0"
+             x2="0" />
+          <line
+             id="Line_12653"
+             data-name="Line 12653"
+             class="cls-9"
+             x1="40.200001"
+             y2="57.299999"
+             transform="translate(792.8,140.2)"
+             y1="0"
+             x2="0" />
+          <line
+             id="Line_12654"
+             data-name="Line 12654"
+             class="cls-9"
+             y1="17.200001"
+             x2="90.199997"
+             transform="translate(742.8,209.7)"
+             x1="0"
+             y2="0" />
+          <line
+             id="Line_12655"
+             data-name="Line 12655"
+             class="cls-9"
+             y1="17.200001"
+             x2="90.199997"
+             transform="translate(682.7,244.1)"
+             x1="0"
+             y2="0" />
+          <line
+             id="Line_12656"
+             data-name="Line 12656"
+             class="cls-9"
+             y1="17.1"
+             x2="90.199997"
+             transform="translate(682.7,278.5)"
+             x1="0"
+             y2="0" />
+          <line
+             id="Line_12657"
+             data-name="Line 12657"
+             class="cls-9"
+             x2="60.099998"
+             transform="translate(792.8,232.3)"
+             x1="0"
+             y1="0"
+             y2="0" />
+          <line
+             id="Line_12658"
+             data-name="Line 12658"
+             class="cls-9"
+             x1="40.200001"
+             y2="57.299999"
+             transform="translate(792.8,175)"
+             y1="0"
+             x2="0" />
+          <line
+             id="Line_12659"
+             data-name="Line 12659"
+             class="cls-9"
+             x1="40.299999"
+             y2="57.299999"
+             transform="translate(732.9,243)"
+             y1="0"
+             x2="0" />
+          <line
+             id="Line_12660"
+             data-name="Line 12660"
+             class="cls-9"
+             x1="40.200001"
+             y2="57.200001"
+             transform="translate(682.9,273.1)"
+             y1="0"
+             x2="0" />
+          <line
+             id="Line_12661"
+             data-name="Line 12661"
+             class="cls-9"
+             x1="50.200001"
+             y2="63.799999"
+             transform="translate(682.4,232.3)"
+             y1="0"
+             x2="0" />
+          <line
+             id="Line_12662"
+             data-name="Line 12662"
+             class="cls-9"
+             x1="40.200001"
+             y2="57.299999"
+             transform="translate(792.8,209.7)"
+             y1="0"
+             x2="0" />
+          <line
+             id="Line_12663"
+             data-name="Line 12663"
+             class="cls-9"
+             x1="0.1"
+             y2="116.4"
+             transform="translate(833,139.9)"
+             y1="0"
+             x2="0" />
+          <line
+             id="Line_12664"
+             data-name="Line 12664"
+             class="cls-9"
+             x1="0.1"
+             y2="117.1"
+             transform="translate(772.8,174.5)"
+             y1="0"
+             x2="0" />
+          <path
+             id="Path_17648"
+             data-name="Path 17648"
+             class="cls-7"
+             d="m 773,174.9 20.1,11.6 60.1,-34.5 -20,-11.6 z" />
+          <path
+             id="Path_17649"
+             data-name="Path 17649"
+             class="cls-7"
+             d="M 652.4,278.6 672.8,289.9 853.1,186.6 833,175 Z" />
+          <path
+             id="Path_17650"
+             data-name="Path 17650"
+             class="cls-7"
+             d="M 652.4,313.3 672.5,324.9 853.1,221.3 833,209.7 Z" />
+          <line
+             id="Line_12665"
+             data-name="Line 12665"
+             class="cls-9"
+             x1="0.2"
+             y2="92.900002"
+             transform="translate(792.9,186.1)"
+             y1="0"
+             x2="0" />
+          <line
+             id="Line_12666"
+             data-name="Line 12666"
+             class="cls-9"
+             x1="0.2"
+             y2="92.900002"
+             transform="translate(823,168.9)"
+             y1="0"
+             x2="0" />
+          <line
+             id="Line_12667"
+             data-name="Line 12667"
+             class="cls-9"
+             y2="59.799999"
+             transform="translate(762.9,237.6)"
+             x1="0"
+             y1="0"
+             x2="0" />
+          <line
+             id="Line_12668"
+             data-name="Line 12668"
+             class="cls-9"
+             x1="0.60000002"
+             y2="69.300003"
+             transform="translate(652.1,277.8)"
+             y1="0"
+             x2="0" />
+          <line
+             id="Line_12669"
+             data-name="Line 12669"
+             class="cls-9"
+             y2="59.400002"
+             transform="translate(702.5,272.8)"
+             x1="0"
+             y1="0"
+             x2="0" />
+          <line
+             id="Line_12670"
+             data-name="Line 12670"
+             class="cls-9"
+             y2="57.700001"
+             transform="translate(672.8,289.9)"
+             x1="0"
+             y1="0"
+             x2="0" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="Group_7412"
+       data-name="Group 7412"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <g
+         id="Group_7411"
+         data-name="Group 7411">
+        <path
+           id="Path_17651"
+           data-name="Path 17651"
+           class="cls-13"
+           d="m 674.5,598.3 -12.6,7.3 0.1,-47.3 12.7,-7.3 z" />
+        <path
+           id="Path_17652"
+           data-name="Path 17652"
+           class="cls-13"
+           d="m 649.4,598.3 12.5,7.3 0.1,-47.3 -12.8,-7.3 z" />
+      </g>
+    </g>
+    <g
+       id="Group_7414"
+       data-name="Group 7414"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <g
+         id="Group_7413"
+         data-name="Group 7413">
+        <path
+           id="Path_17653"
+           data-name="Path 17653"
+           class="cls-13"
+           d="m 853.1,701.4 -12.5,7.3 v -47.2 l 12.8,-7.4 z" />
+        <path
+           id="Path_17654"
+           data-name="Path 17654"
+           class="cls-13"
+           d="m 828,701.4 12.6,7.3 v -47.2 l -12.7,-7.4 z" />
+      </g>
+    </g>
+    <g
+       id="Group_7416"
+       data-name="Group 7416"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <g
+         id="Group_7415"
+         data-name="Group 7415">
+        <path
+           id="Path_17655"
+           data-name="Path 17655"
+           class="cls-13"
+           d="m 980.3,627.5 -12.6,7.2 0.1,-47.2 12.7,-7.4 z" />
+        <path
+           id="Path_17656"
+           data-name="Path 17656"
+           class="cls-13"
+           d="m 955.2,627.5 12.5,7.2 0.1,-47.2 -12.8,-7.4 z" />
+      </g>
+    </g>
+    <g
+       id="Group_7418"
+       data-name="Group 7418"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <g
+         id="Group_7417"
+         data-name="Group 7417">
+        <path
+           id="Path_17657"
+           data-name="Path 17657"
+           class="cls-13"
+           d="m 1120.9,708.8 -12.5,7.3 v -47.2 l 12.8,-7.4 z" />
+        <path
+           id="Path_17658"
+           data-name="Path 17658"
+           class="cls-13"
+           d="m 1095.8,708.8 12.6,7.3 v -47.2 l -12.8,-7.4 z" />
+      </g>
+    </g>
+    <g
+       id="Group_7419"
+       data-name="Group 7419"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <path
+         id="Path_17659"
+         data-name="Path 17659"
+         class="cls-10"
+         d="M 1108.2,509.9 840.4,664.5 840,649.5 1108.2,495.2 Z" />
+      <path
+         id="Path_17660"
+         data-name="Path 17660"
+         class="cls-10"
+         d="m 1248.5,590.9 -140.3,81 -0.4,-15 140.7,-80.8 z" />
+      <path
+         id="Path_17661"
+         data-name="Path 17661"
+         class="cls-11"
+         d="M 623.6,539.3 840.4,664.5 840,649.5 623.6,524.6 Z" />
+      <path
+         id="Path_17662"
+         data-name="Path 17662"
+         class="cls-11"
+         d="m 967.8,590.8 140.4,81.1 -0.6,-14.4 -139.8,-81.4 z" />
+      <path
+         id="Path_17663"
+         data-name="Path 17663"
+         class="cls-11"
+         d="M 1248.5,576.1 1104,492.7 v 0 L 891.4,370 623.6,524.6 840,649.5 967.7,576 l 139.9,81.5 z" />
+    </g>
+    <g
+       id="Group_7421"
+       data-name="Group 7421"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <g
+         id="Group_7420"
+         data-name="Group 7420">
+        <path
+           id="Path_17664"
+           data-name="Path 17664"
+           class="cls-10"
+           d="m 674.5,524.7 -12.6,7.2 0.1,-47.2 12.7,-7.3 z" />
+        <path
+           id="Path_17665"
+           data-name="Path 17665"
+           class="cls-10"
+           d="m 649.4,524.7 12.5,7.2 0.1,-47.2 -12.8,-7.3 z" />
+      </g>
+    </g>
+    <g
+       id="Group_7423"
+       data-name="Group 7423"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <g
+         id="Group_7422"
+         data-name="Group 7422">
+        <path
+           id="Path_17666"
+           data-name="Path 17666"
+           class="cls-10"
+           d="m 852.6,627.5 -12.6,7.2 v -47.2 l 12.8,-7.4 z" />
+        <path
+           id="Path_17667"
+           data-name="Path 17667"
+           class="cls-10"
+           d="m 827.4,627.5 12.6,7.2 v -47.2 l -12.7,-7.4 z" />
+      </g>
+    </g>
+    <g
+       id="Group_7425"
+       data-name="Group 7425"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <g
+         id="Group_7424"
+         data-name="Group 7424">
+        <path
+           id="Path_17668"
+           data-name="Path 17668"
+           class="cls-10"
+           d="m 980.9,554.2 -12.6,7.2 0.1,-47.2 12.7,-7.4 z" />
+        <path
+           id="Path_17669"
+           data-name="Path 17669"
+           class="cls-10"
+           d="m 955.8,554.2 12.5,7.2 0.1,-47.2 -12.8,-7.4 z" />
+      </g>
+    </g>
+    <g
+       id="Group_7427"
+       data-name="Group 7427"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <g
+         id="Group_7426"
+         data-name="Group 7426">
+        <path
+           id="Path_17670"
+           data-name="Path 17670"
+           class="cls-10"
+           d="m 1221.8,576 -12.6,7.3 0.1,-47.3 12.7,-7.3 z" />
+        <path
+           id="Path_17671"
+           data-name="Path 17671"
+           class="cls-10"
+           d="m 1196.7,576 12.5,7.3 0.1,-47.3 -12.8,-7.3 z" />
+      </g>
+    </g>
+    <g
+       id="Group_7429"
+       data-name="Group 7429"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <g
+         id="Group_7428"
+         data-name="Group 7428">
+        <path
+           id="Path_17672"
+           data-name="Path 17672"
+           class="cls-10"
+           d="m 1121,635.4 -12.5,7.2 v -47.2 l 12.8,-7.3 z" />
+        <path
+           id="Path_17673"
+           data-name="Path 17673"
+           class="cls-10"
+           d="m 1095.9,635.4 12.6,7.2 v -47.2 l -12.7,-7.3 z" />
+      </g>
+    </g>
+    <g
+       id="Group_7431"
+       data-name="Group 7431"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <g
+         id="Group_7430"
+         data-name="Group 7430">
+        <path
+           id="Path_17674"
+           data-name="Path 17674"
+           class="cls-9"
+           d="m 1082.4,495.2 -12.5,7.3 v -47.3 l 12.8,-7.3 z" />
+        <path
+           id="Path_17675"
+           data-name="Path 17675"
+           class="cls-9"
+           d="m 1057.3,495.2 12.6,7.3 v -47.3 l -12.7,-7.3 z" />
+      </g>
+    </g>
+    <g
+       id="Group_7433"
+       data-name="Group 7433"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <g
+         id="Group_7432"
+         data-name="Group 7432">
+        <path
+           id="Path_17676"
+           data-name="Path 17676"
+           class="cls-9"
+           d="m 1082.5,421.5 -12.6,7.3 v -47.3 l 12.8,-7.3 z" />
+        <path
+           id="Path_17677"
+           data-name="Path 17677"
+           class="cls-9"
+           d="m 1057.3,421.5 12.6,7.3 v -47.3 l -12.7,-7.3 z" />
+      </g>
+    </g>
+    <g
+       id="Group_7434"
+       data-name="Group 7434"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <path
+         id="Path_17678"
+         data-name="Path 17678"
+         class="cls-13"
+         d="M 1108.2,436.3 840.4,590.9 840,575.9 1108.2,421.5 Z" />
+      <path
+         id="Path_17679"
+         data-name="Path 17679"
+         class="cls-13"
+         d="m 1248.5,517.2 -140.3,81 -0.4,-15 140.7,-80.7 z" />
+      <path
+         id="Path_17680"
+         data-name="Path 17680"
+         class="cls-14"
+         d="M 623.6,465.7 840.4,590.9 840,575.9 623.6,451 Z" />
+      <path
+         id="Path_17681"
+         data-name="Path 17681"
+         class="cls-14"
+         d="m 967.8,517.2 140.4,81 -0.6,-14.4 -139.8,-81.3 z" />
+      <path
+         id="Path_17682"
+         data-name="Path 17682"
+         class="cls-14"
+         d="M 1248.5,502.5 1104,419.1 v 0 L 891.4,296.4 623.6,451 840,575.9 l 127.7,-73.5 139.9,81.4 z" />
+    </g>
+    <g
+       id="Group_7435"
+       data-name="Group 7435"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <path
+         id="Path_17683"
+         data-name="Path 17683"
+         class="cls-8"
+         d="m 1080.5,539 -9.8,6 v -21.7 l 9.7,-6.1 z" />
+      <path
+         id="Path_17684"
+         data-name="Path 17684"
+         class="cls-8"
+         d="m 1032.7,523.3 38,21.7 0.1,-21.8 -38,-21.7 z" />
+      <path
+         id="Path_17685"
+         data-name="Path 17685"
+         class="cls-8"
+         d="m 1080.4,517.3 -9.7,6 -37.8,-21.7 9.7,-5.9 z" />
+      <line
+         id="Line_12671"
+         data-name="Line 12671"
+         class="cls-8"
+         y2="21.200001"
+         transform="translate(1043.1,507.8)"
+         x1="0"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12672"
+         data-name="Line 12672"
+         class="cls-8"
+         x2="0.1"
+         y2="21.1"
+         transform="translate(1056.6,515.6)"
+         x1="0"
+         y1="0" />
+      <line
+         id="Line_12673"
+         data-name="Line 12673"
+         class="cls-8"
+         y1="5.6999998"
+         x2="9.6999998"
+         transform="translate(1043.1,501.5)"
+         x1="0"
+         y2="0" />
+      <line
+         id="Line_12674"
+         data-name="Line 12674"
+         class="cls-8"
+         y1="5.6999998"
+         x2="9.6000004"
+         transform="translate(1056.7,509.5)"
+         x1="0"
+         y2="0" />
+      <line
+         id="Line_12675"
+         data-name="Line 12675"
+         class="cls-8"
+         y1="5.6999998"
+         x2="9.6999998"
+         transform="translate(1070.8,525.1)"
+         x1="0"
+         y2="0" />
+      <line
+         id="Line_12676"
+         data-name="Line 12676"
+         class="cls-8"
+         y1="5.6999998"
+         x2="9.6999998"
+         transform="translate(1070.8,531.8)"
+         x1="0"
+         y2="0" />
+      <line
+         id="Line_12677"
+         data-name="Line 12677"
+         class="cls-8"
+         x2="37.900002"
+         y2="21.799999"
+         transform="translate(1032.8,509)"
+         x1="0"
+         y1="0" />
+      <line
+         id="Line_12678"
+         data-name="Line 12678"
+         class="cls-8"
+         x2="38"
+         y2="21.799999"
+         transform="translate(1033,515.8)"
+         x1="0"
+         y1="0" />
+    </g>
+    <g
+       id="Group_7437"
+       data-name="Group 7437"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <g
+         id="Group_7436"
+         data-name="Group 7436">
+        <path
+           id="Path_17686"
+           data-name="Path 17686"
+           class="cls-10"
+           d="m 1121.3,561.3 -12.6,7.3 0.1,-47.2 12.7,-7.4 z" />
+        <path
+           id="Path_17687"
+           data-name="Path 17687"
+           class="cls-10"
+           d="m 1096.2,561.3 12.5,7.3 0.1,-47.2 -12.8,-7.4 z" />
+      </g>
+    </g>
+    <g
+       id="Group_7439"
+       data-name="Group 7439"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <g
+         id="Group_7438"
+         data-name="Group 7438">
+        <path
+           id="Path_17688"
+           data-name="Path 17688"
+           class="cls-10"
+           d="m 1222.9,502.6 -12.5,7.3 v -47.2 l 12.8,-7.4 z" />
+        <path
+           id="Path_17689"
+           data-name="Path 17689"
+           class="cls-10"
+           d="m 1197.8,502.6 12.6,7.3 v -47.2 l -12.7,-7.4 z" />
+      </g>
+    </g>
+    <g
+       id="Group_7441"
+       data-name="Group 7441"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <g
+         id="Group_7440"
+         data-name="Group 7440">
+        <path
+           id="Path_17690"
+           data-name="Path 17690"
+           class="cls-10"
+           d="m 852.8,553.5 -12.5,7.3 v -47.2 l 12.8,-7.4 z" />
+        <path
+           id="Path_17691"
+           data-name="Path 17691"
+           class="cls-10"
+           d="m 827.7,553.5 12.6,7.3 v -47.2 l -12.7,-7.4 z" />
+      </g>
+    </g>
+    <g
+       id="Group_7443"
+       data-name="Group 7443"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <g
+         id="Group_7442"
+         data-name="Group 7442">
+        <path
+           id="Path_17692"
+           data-name="Path 17692"
+           class="cls-10"
+           d="m 980.3,480.4 -12.5,7.2 v -47.2 l 12.8,-7.4 z" />
+        <path
+           id="Path_17693"
+           data-name="Path 17693"
+           class="cls-10"
+           d="m 955.2,480.4 12.6,7.2 V 440.4 L 955.1,433 Z" />
+      </g>
+    </g>
+    <g
+       id="Group_7445"
+       data-name="Group 7445"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <g
+         id="Group_7444"
+         data-name="Group 7444">
+        <path
+           id="Path_17694"
+           data-name="Path 17694"
+           class="cls-10"
+           d="m 674.5,451.1 -12.5,7.2 v -47.2 l 12.8,-7.3 z" />
+        <path
+           id="Path_17695"
+           data-name="Path 17695"
+           class="cls-10"
+           d="m 649.4,451.1 12.6,7.2 v -47.2 l -12.7,-7.3 z" />
+      </g>
+    </g>
+    <path
+       id="Path_17696"
+       data-name="Path 17696"
+       class="cls-9"
+       d="M 516.80977,282.65484"
+       style="stroke-width:1.00035" />
+    <g
+       id="Group_7446"
+       data-name="Group 7446"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <path
+         id="Path_17697"
+         data-name="Path 17697"
+         class="cls-10"
+         d="m 1108.7,363.1 -267.8,154.6 -0.4,-15 268.2,-154.3 z" />
+      <path
+         id="Path_17698"
+         data-name="Path 17698"
+         class="cls-10"
+         d="m 1248.9,444.1 -140.2,81 -0.4,-15 140.6,-80.7 z" />
+      <path
+         id="Path_17699"
+         data-name="Path 17699"
+         class="cls-11"
+         d="m 624.1,392.5 216.8,125.2 -0.4,-15 -216.4,-124.9 z" />
+      <path
+         id="Path_17700"
+         data-name="Path 17700"
+         class="cls-11"
+         d="m 968.3,444 140.4,81.1 -0.6,-14.4 -139.8,-81.4 z" />
+      <path
+         id="Path_17701"
+         data-name="Path 17701"
+         class="cls-11"
+         d="m 1248.4,429.4 -144.5,-83.5 v 0 L 891.4,223.2 623.6,377.8 840,502.7 l 127.6,-73.5 140,81.5 z" />
+    </g>
+    <line
+       id="Line_12685"
+       data-name="Line 12685"
+       class="cls-9"
+       x1="253.80817"
+       y2="431.75827"
+       y1="384.72568"
+       x2="172.0076"
+       style="stroke-width:1.00035" />
+    <path
+       id="Path_17702"
+       data-name="Path 17702"
+       class="cls-16"
+       d="M 80.307059,349.90149 40.606813,372.11691 4.4065885,350.90219 44.106835,328.68677 Z"
+       style="stroke-width:1.00035" />
+    <path
+       id="Path_17703"
+       data-name="Path 17703"
+       class="cls-16"
+       d="M 80.807062,497.20369 41.006815,519.41911 4.9065916,498.20439 44.606838,475.98897 Z"
+       style="stroke-width:1.00035" />
+    <path
+       id="Path_17704"
+       data-name="Path 17704"
+       class="cls-9"
+       d="M 80.007057,497.20369 58.006921,509.71237 112.60726,471.28571 138.10742,456.5755 Z"
+       style="stroke-width:1.00035" />
+    <path
+       id="Path_17705"
+       data-name="Path 17705"
+       class="cls-16"
+       d="M 174.50764,477.59008 134.8074,499.8055 98.607173,478.59078 138.40742,456.37537 Z"
+       style="stroke-width:1.00035" />
+    <path
+       id="Path_17706"
+       data-name="Path 17706"
+       class="cls-16"
+       d="M 172.60763,623.29117 132.90739,645.50659 96.707161,624.29187 136.40741,602.07646 Z"
+       style="stroke-width:1.00035" />
+    <path
+       id="Path_17707"
+       data-name="Path 17707"
+       class="cls-9"
+       d="M 80.307059,349.90149 59.106928,361.90982 112.90726,323.98351 138.40742,309.2733 Z"
+       style="stroke-width:1.00035" />
+    <path
+       id="Path_17708"
+       data-name="Path 17708"
+       class="cls-16"
+       d="m 174.60764,330.38795 -25.50015,14.81028 -36.20023,-21.21472 25.50016,-14.71021 z"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12686"
+       data-name="Line 12686"
+       class="cls-9"
+       x1="174.70763"
+       y2="330.48801"
+       y1="312.77573"
+       x2="174.40764"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12687"
+       data-name="Line 12687"
+       class="cls-9"
+       x1="149.50746"
+       y2="345.19824"
+       y1="327.48593"
+       x2="149.20747"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12688"
+       data-name="Line 12688"
+       class="cls-9"
+       x1="41.306843"
+       y2="372.11691"
+       y1="354.50467"
+       x2="41.106827"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12689"
+       data-name="Line 12689"
+       class="cls-9"
+       x1="113.30729"
+       y2="324.28369"
+       y1="306.57144"
+       x2="113.00724"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12690"
+       data-name="Line 12690"
+       class="cls-9"
+       x1="117.20728"
+       y2="326.48523"
+       y1="308.87302"
+       x2="117.00726"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12691"
+       data-name="Line 12691"
+       class="cls-9"
+       x1="121.30733"
+       y2="328.98697"
+       y1="311.27469"
+       x2="121.10732"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12692"
+       data-name="Line 12692"
+       class="cls-9"
+       x1="125.40734"
+       y2="331.18851"
+       y1="313.47623"
+       x2="125.20733"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12693"
+       data-name="Line 12693"
+       class="cls-9"
+       x1="129.50734"
+       y2="333.69025"
+       y1="315.97797"
+       x2="129.30739"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12694"
+       data-name="Line 12694"
+       class="cls-9"
+       x1="133.30742"
+       y2="335.89175"
+       y1="318.1795"
+       x2="133.10739"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12695"
+       data-name="Line 12695"
+       class="cls-9"
+       x1="137.40741"
+       y2="338.29343"
+       y1="320.68124"
+       x2="137.2074"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12696"
+       data-name="Line 12696"
+       class="cls-9"
+       x1="141.40744"
+       y2="340.3949"
+       y1="322.68262"
+       x2="141.20743"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12697"
+       data-name="Line 12697"
+       class="cls-9"
+       x1="145.40746"
+       y2="343.19684"
+       y1="325.48456"
+       x2="145.20744"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12698"
+       data-name="Line 12698"
+       class="cls-9"
+       x1="153.50749"
+       y2="342.9967"
+       y1="325.38446"
+       x2="153.30754"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12699"
+       data-name="Line 12699"
+       class="cls-9"
+       x1="157.70752"
+       y2="340.59503"
+       y1="322.88275"
+       x2="157.40753"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12700"
+       data-name="Line 12700"
+       class="cls-9"
+       x1="161.10757"
+       y2="338.29343"
+       y1="320.68124"
+       x2="160.90756"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12701"
+       data-name="Line 12701"
+       class="cls-9"
+       x1="164.60759"
+       y2="336.59225"
+       y1="318.87997"
+       x2="164.40758"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12702"
+       data-name="Line 12702"
+       class="cls-9"
+       x1="168.30763"
+       y2="334.19061"
+       y1="316.4783"
+       x2="168.10762"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12703"
+       data-name="Line 12703"
+       class="cls-9"
+       x1="171.70761"
+       y2="332.48941"
+       y1="314.7771"
+       x2="171.5076"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12704"
+       data-name="Line 12704"
+       class="cls-17"
+       x2="149.50746"
+       y2="327.586"
+       x1="113.30729"
+       y1="306.97171"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12705"
+       data-name="Line 12705"
+       class="cls-9"
+       x1="4.2065749"
+       y2="350.80209"
+       y1="333.08984"
+       x2="4.1065989"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12706"
+       data-name="Line 12706"
+       class="cls-9"
+       x1="8.1066236"
+       y2="352.8035"
+       y1="335.29135"
+       x2="7.90661"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12707"
+       data-name="Line 12707"
+       class="cls-9"
+       x1="43.606842"
+       y2="329.28717"
+       y1="311.07455"
+       x2="43.306854"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12708"
+       data-name="Line 12708"
+       class="cls-9"
+       x1="48.306885"
+       y2="478.09045"
+       y1="461.07864"
+       x2="48.106873"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12709"
+       data-name="Line 12709"
+       class="cls-9"
+       x1="13.006618"
+       y2="355.80557"
+       y1="338.19339"
+       x2="12.706628"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12710"
+       data-name="Line 12710"
+       class="cls-9"
+       x1="39.606819"
+       y2="331.48871"
+       y1="313.17603"
+       x2="39.406807"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12711"
+       data-name="Line 12711"
+       class="cls-9"
+       x1="36.406788"
+       y2="333.08984"
+       y1="315.07733"
+       x2="36.206772"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12712"
+       data-name="Line 12712"
+       class="cls-9"
+       x1="32.406761"
+       y2="335.39142"
+       y1="317.1788"
+       x2="32.206749"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12713"
+       data-name="Line 12713"
+       class="cls-9"
+       x1="28.00671"
+       y2="337.99323"
+       y1="319.78058"
+       x2="27.70672"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12714"
+       data-name="Line 12714"
+       class="cls-9"
+       x1="48.506836"
+       y2="331.18851"
+       y1="314.07663"
+       x2="48.306885"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12715"
+       data-name="Line 12715"
+       class="cls-9"
+       x1="53.306915"
+       y2="333.99045"
+       y1="316.7785"
+       x2="53.206879"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12716"
+       data-name="Line 12716"
+       class="cls-9"
+       x1="57.60693"
+       y2="336.59225"
+       y1="319.28024"
+       x2="57.406918"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12717"
+       data-name="Line 12717"
+       class="cls-9"
+       x1="61.106953"
+       y2="338.59366"
+       y1="321.38168"
+       x2="61.006916"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12718"
+       data-name="Line 12718"
+       class="cls-9"
+       x1="65.006943"
+       y2="340.79517"
+       y1="323.68332"
+       x2="64.806984"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12719"
+       data-name="Line 12719"
+       class="cls-9"
+       x1="68.90699"
+       y2="342.89664"
+       y1="325.48456"
+       x2="68.706978"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12720"
+       data-name="Line 12720"
+       class="cls-9"
+       x1="73.006989"
+       y2="344.89801"
+       y1="327.9863"
+       x2="72.807037"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12721"
+       data-name="Line 12721"
+       class="cls-9"
+       x1="77.207031"
+       y2="347.69998"
+       y1="330.38794"
+       x2="76.907036"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12722"
+       data-name="Line 12722"
+       class="cls-9"
+       x1="80.507034"
+       y2="346.89941"
+       y1="332.18921"
+       x2="80.307083"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12723"
+       data-name="Line 12723"
+       class="cls-9"
+       x1="23.30673"
+       y2="340.49496"
+       y1="322.18228"
+       x2="23.00668"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12724"
+       data-name="Line 12724"
+       class="cls-9"
+       x1="18.806702"
+       y2="341.39557"
+       y1="324.78406"
+       x2="18.606689"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12725"
+       data-name="Line 12725"
+       class="cls-9"
+       x1="14.006623"
+       y2="338.69373"
+       y1="327.48593"
+       x2="13.906648"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12726"
+       data-name="Line 12726"
+       class="cls-9"
+       x1="9.8066463"
+       y2="336.19199"
+       y1="329.78754"
+       x2="9.7066088"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12727"
+       data-name="Line 12727"
+       class="cls-9"
+       x2="44.60685"
+       y2="475.98895"
+       x1="44.406837"
+       y1="458.87711"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12728"
+       data-name="Line 12728"
+       class="cls-9"
+       x1="40.306835"
+       y2="478.49069"
+       y1="460.97855"
+       x2="40.106823"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12729"
+       data-name="Line 12729"
+       class="cls-9"
+       x1="35.506756"
+       y2="481.1926"
+       y1="463.28015"
+       x2="35.206768"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12730"
+       data-name="Line 12730"
+       class="cls-9"
+       x1="30.606764"
+       y2="483.99451"
+       y1="466.08212"
+       x2="30.40675"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12731"
+       data-name="Line 12731"
+       class="cls-9"
+       x1="25.506695"
+       y2="486.79645"
+       y1="468.9841"
+       x2="25.206705"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12732"
+       data-name="Line 12732"
+       class="cls-9"
+       x2="21.006666"
+       y2="488.89795"
+       x1="20.906691"
+       y1="471.3858"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12733"
+       data-name="Line 12733"
+       class="cls-9"
+       x1="17.10668"
+       y2="486.59637"
+       y1="473.18704"
+       x2="17.006641"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12734"
+       data-name="Line 12734"
+       class="cls-9"
+       x1="13.406644"
+       y2="484.89517"
+       y1="475.58871"
+       x2="13.306668"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12735"
+       data-name="Line 12735"
+       class="cls-9"
+       y2="482.49347"
+       x1="9.8066463"
+       y1="476.88962"
+       x2="9.8066463"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12736"
+       data-name="Line 12736"
+       class="cls-9"
+       x1="17.306692"
+       y2="358.30731"
+       y1="340.59503"
+       x2="17.10668"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12737"
+       data-name="Line 12737"
+       class="cls-9"
+       x1="21.606707"
+       y2="360.80905"
+       y1="343.29691"
+       x2="21.406694"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12738"
+       data-name="Line 12738"
+       class="cls-9"
+       x1="25.306742"
+       y2="363.31079"
+       y1="345.49844"
+       x2="25.10673"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12739"
+       data-name="Line 12739"
+       class="cls-9"
+       x1="29.706734"
+       y2="365.81253"
+       y1="348.20032"
+       x2="29.50672"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12740"
+       data-name="Line 12740"
+       class="cls-9"
+       x1="34.106785"
+       y2="368.2142"
+       y1="350.70206"
+       x2="33.906773"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12741"
+       data-name="Line 12741"
+       class="cls-9"
+       x1="37.706783"
+       y2="370.31564"
+       y1="352.60336"
+       x2="37.506771"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12742"
+       data-name="Line 12742"
+       class="cls-17"
+       x2="41.306843"
+       y2="354.50467"
+       x1="4.1065989"
+       y1="332.98975"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12743"
+       data-name="Line 12743"
+       class="cls-9"
+       x1="41.00679"
+       y2="519.1189"
+       y1="500.40594"
+       x2="40.806839"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12744"
+       data-name="Line 12744"
+       class="cls-9"
+       x1="7.7065969"
+       y2="499.90558"
+       y1="481.29263"
+       x2="7.4066072"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12745"
+       data-name="Line 12745"
+       class="cls-9"
+       x1="4.9065914"
+       y2="498.20441"
+       y1="479.69156"
+       x2="4.8066154"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12746"
+       data-name="Line 12746"
+       class="cls-9"
+       x1="11.306656"
+       y2="502.10712"
+       y1="483.39413"
+       x2="11.106642"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12747"
+       data-name="Line 12747"
+       class="cls-9"
+       x1="15.506633"
+       y2="504.50876"
+       y1="485.79575"
+       x2="15.206643"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12748"
+       data-name="Line 12748"
+       class="cls-9"
+       x1="19.706671"
+       y2="507.0105"
+       y1="488.39761"
+       x2="19.406681"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12749"
+       data-name="Line 12749"
+       class="cls-9"
+       x1="24.306736"
+       y2="509.11197"
+       y1="490.79922"
+       x2="24.106722"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12750"
+       data-name="Line 12750"
+       class="cls-9"
+       x1="28.60675"
+       y2="512.11407"
+       y1="493.50113"
+       x2="28.406736"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12751"
+       data-name="Line 12751"
+       class="cls-9"
+       x1="32.906765"
+       y2="514.41565"
+       y1="495.8027"
+       x2="32.606777"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12752"
+       data-name="Line 12752"
+       class="cls-9"
+       x1="37.006767"
+       y2="516.81726"
+       y1="498.20441"
+       x2="36.806812"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12753"
+       data-name="Line 12753"
+       class="cls-17"
+       x2="41.00679"
+       y2="500.40594"
+       x1="4.9065914"
+       y1="479.69156"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12754"
+       data-name="Line 12754"
+       class="cls-17"
+       x2="80.507034"
+       y2="332.18921"
+       x1="43.706821"
+       y1="311.37476"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12755"
+       data-name="Line 12755"
+       class="cls-9"
+       x1="52.506863"
+       y2="480.4921"
+       y1="463.28015"
+       x2="52.306911"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12756"
+       data-name="Line 12756"
+       class="cls-9"
+       x1="56.606926"
+       y2="482.5936"
+       y1="465.98203"
+       x2="56.40691"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12757"
+       data-name="Line 12757"
+       class="cls-9"
+       x1="60.406937"
+       y2="485.29541"
+       y1="468.08353"
+       x2="60.306961"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12758"
+       data-name="Line 12758"
+       class="cls-9"
+       x1="64.306984"
+       y2="487.39691"
+       y1="470.3851"
+       x2="64.106972"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12759"
+       data-name="Line 12759"
+       class="cls-9"
+       x1="68.20697"
+       y2="488.79785"
+       y1="472.18634"
+       x2="68.006958"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12760"
+       data-name="Line 12760"
+       class="cls-9"
+       x1="72.307037"
+       y2="491.59982"
+       y1="475.18842"
+       x2="72.107018"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12761"
+       data-name="Line 12761"
+       class="cls-9"
+       x1="76.407036"
+       y2="493.50113"
+       y1="477.08975"
+       x2="76.207024"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12762"
+       data-name="Line 12762"
+       class="cls-9"
+       x1="79.807083"
+       y2="494.60193"
+       y1="478.89099"
+       x2="79.607063"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12763"
+       data-name="Line 12763"
+       class="cls-17"
+       x2="79.807083"
+       y2="478.89099"
+       x1="44.406837"
+       y1="458.87711"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12764"
+       data-name="Line 12764"
+       class="cls-17"
+       y1="327.48593"
+       x2="174.70763"
+       x1="149.50746"
+       y2="312.77573"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12765"
+       data-name="Line 12765"
+       class="cls-9"
+       x1="174.50761"
+       y2="477.79019"
+       y1="458.67697"
+       x2="174.30766"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12766"
+       data-name="Line 12766"
+       class="cls-9"
+       x1="135.40739"
+       y2="499.20508"
+       y1="481.4928"
+       x2="135.20738"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12767"
+       data-name="Line 12767"
+       class="cls-9"
+       x1="99.207161"
+       y2="478.19049"
+       y1="460.57831"
+       x2="99.007149"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12768"
+       data-name="Line 12768"
+       class="cls-9"
+       x1="103.20719"
+       y2="481.09253"
+       y1="462.77979"
+       x2="102.9072"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12769"
+       data-name="Line 12769"
+       class="cls-9"
+       x1="107.30725"
+       y2="483.39413"
+       y1="465.28152"
+       x2="107.0072"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12770"
+       data-name="Line 12770"
+       class="cls-9"
+       x1="111.40725"
+       y2="485.89587"
+       y1="467.88336"
+       x2="111.10726"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12771"
+       data-name="Line 12771"
+       class="cls-9"
+       x1="115.50726"
+       y2="488.19745"
+       y1="469.9848"
+       x2="115.20726"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12772"
+       data-name="Line 12772"
+       class="cls-9"
+       x1="119.30733"
+       y2="490.29889"
+       y1="472.18634"
+       x2="119.10732"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12773"
+       data-name="Line 12773"
+       class="cls-9"
+       x1="123.40733"
+       y2="492.90073"
+       y1="474.58804"
+       x2="123.10734"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12774"
+       data-name="Line 12774"
+       class="cls-9"
+       x1="127.40735"
+       y2="495.2023"
+       y1="476.68945"
+       x2="127.10736"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12775"
+       data-name="Line 12775"
+       class="cls-9"
+       x1="131.40738"
+       y2="497.2037"
+       y1="479.49139"
+       x2="131.10739"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12776"
+       data-name="Line 12776"
+       class="cls-9"
+       x1="139.5074"
+       y2="497.00354"
+       y1="479.29126"
+       x2="139.20741"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12777"
+       data-name="Line 12777"
+       class="cls-9"
+       x1="169.10762"
+       y2="480.69223"
+       y1="461.87921"
+       x2="168.90761"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12778"
+       data-name="Line 12778"
+       class="cls-9"
+       x1="164.40758"
+       y2="483.39413"
+       y1="464.58109"
+       x2="164.10759"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12779"
+       data-name="Line 12779"
+       class="cls-9"
+       x1="159.30757"
+       y2="486.09601"
+       y1="467.28293"
+       x2="159.10756"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12780"
+       data-name="Line 12780"
+       class="cls-9"
+       x1="154.00749"
+       y2="489.29819"
+       y1="470.48514"
+       x2="153.7075"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12781"
+       data-name="Line 12781"
+       class="cls-9"
+       x1="148.20747"
+       y2="492.40039"
+       y1="474.38788"
+       x2="148.00746"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12782"
+       data-name="Line 12782"
+       class="cls-9"
+       x1="143.60747"
+       y2="495.00217"
+       y1="476.78952"
+       x2="143.40746"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12783"
+       data-name="Line 12783"
+       class="cls-17"
+       x2="135.40739"
+       y2="481.5929"
+       x1="84.607101"
+       y1="452.57275"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12784"
+       data-name="Line 12784"
+       class="cls-17"
+       y1="481.4928"
+       x2="174.50761"
+       x1="135.40739"
+       y2="458.67697"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12785"
+       data-name="Line 12785"
+       class="cls-9"
+       x1="172.20761"
+       y2="623.091"
+       y1="603.97778"
+       x2="172.0076"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12786"
+       data-name="Line 12786"
+       class="cls-9"
+       x1="133.10739"
+       y2="644.50592"
+       y1="626.79358"
+       x2="132.90738"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12787"
+       data-name="Line 12787"
+       class="cls-9"
+       x1="96.907166"
+       y2="623.49133"
+       y1="605.87909"
+       x2="96.707146"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12788"
+       data-name="Line 12788"
+       class="cls-9"
+       x1="100.90719"
+       y2="626.39331"
+       y1="608.08063"
+       x2="100.6072"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12789"
+       data-name="Line 12789"
+       class="cls-9"
+       x1="105.00719"
+       y2="628.69495"
+       y1="610.58234"
+       x2="104.7072"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12790"
+       data-name="Line 12790"
+       class="cls-9"
+       x1="109.00721"
+       y2="631.19672"
+       y1="613.1842"
+       x2="108.80726"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12791"
+       data-name="Line 12791"
+       class="cls-9"
+       x1="113.10728"
+       y2="633.49829"
+       y1="615.28564"
+       x2="112.90726"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12792"
+       data-name="Line 12792"
+       class="cls-9"
+       x1="117.00726"
+       y2="635.59973"
+       y1="617.48718"
+       x2="116.70728"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12793"
+       data-name="Line 12793"
+       class="cls-9"
+       x1="121.10732"
+       y2="638.20154"
+       y1="619.88879"
+       x2="120.80733"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12794"
+       data-name="Line 12794"
+       class="cls-9"
+       x1="125.00731"
+       y2="640.60315"
+       y1="621.9903"
+       x2="124.80736"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12795"
+       data-name="Line 12795"
+       class="cls-9"
+       x1="129.10738"
+       y2="642.50452"
+       y1="624.79224"
+       x2="128.80739"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12796"
+       data-name="Line 12796"
+       class="cls-9"
+       x1="137.10742"
+       y2="642.30438"
+       y1="624.59204"
+       x2="136.90741"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12797"
+       data-name="Line 12797"
+       class="cls-9"
+       x1="166.80762"
+       y2="625.99304"
+       y1="607.18005"
+       x2="166.6076"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12798"
+       data-name="Line 12798"
+       class="cls-9"
+       x1="162.10757"
+       y2="628.69495"
+       y1="609.88184"
+       x2="161.80759"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12799"
+       data-name="Line 12799"
+       class="cls-9"
+       x1="157.00751"
+       y2="631.39679"
+       y1="612.58374"
+       x2="156.80756"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12800"
+       data-name="Line 12800"
+       class="cls-9"
+       x1="151.70749"
+       y2="634.599"
+       y1="615.78595"
+       x2="151.4075"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12801"
+       data-name="Line 12801"
+       class="cls-9"
+       x1="145.90747"
+       y2="637.70117"
+       y1="619.68872"
+       x2="145.70746"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12802"
+       data-name="Line 12802"
+       class="cls-9"
+       x1="141.30746"
+       y2="640.30298"
+       y1="622.09033"
+       x2="141.10745"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12803"
+       data-name="Line 12803"
+       class="cls-17"
+       x2="133.10739"
+       y2="626.89368"
+       x1="82.307098"
+       y1="597.87354"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12804"
+       data-name="Line 12804"
+       class="cls-17"
+       y1="626.79358"
+       x2="172.20761"
+       x1="133.10739"
+       y2="603.97778"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12805"
+       data-name="Line 12805"
+       class="cls-17"
+       y1="332.98975"
+       x2="43.606842"
+       x1="4.1065989"
+       y2="311.07455"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12806"
+       data-name="Line 12806"
+       class="cls-17"
+       y1="479.89169"
+       x2="44.406837"
+       x1="4.9065914"
+       y2="458.87711"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12807"
+       data-name="Line 12807"
+       class="cls-9"
+       x2="98.607185"
+       y2="478.59082"
+       x1="40.406811"
+       y1="371.71664"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12808"
+       data-name="Line 12808"
+       class="cls-9"
+       x2="117.70728"
+       y2="468.18356"
+       x1="59.406929"
+       y1="361.30939"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12809"
+       data-name="Line 12809"
+       class="cls-9"
+       x1="63.306976"
+       y2="378.92163"
+       y1="368.41434"
+       x2="44.60685"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12810"
+       data-name="Line 12810"
+       class="cls-9"
+       x1="66.806999"
+       y2="385.62628"
+       y1="374.81876"
+       x2="47.706844"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12811"
+       data-name="Line 12811"
+       class="cls-9"
+       x1="70.406998"
+       y2="392.1308"
+       y1="381.32327"
+       x2="51.306904"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12812"
+       data-name="Line 12812"
+       class="cls-9"
+       x1="74.807053"
+       y2="399.93619"
+       y1="389.12872"
+       x2="55.706894"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12813"
+       data-name="Line 12813"
+       class="cls-9"
+       x1="78.307068"
+       y2="406.94107"
+       y1="396.13358"
+       x2="59.206917"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12814"
+       data-name="Line 12814"
+       class="cls-9"
+       x1="82.107086"
+       y2="412.74509"
+       y1="401.93759"
+       x2="62.906952"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12815"
+       data-name="Line 12815"
+       class="cls-9"
+       x1="85.107101"
+       y2="418.9494"
+       y1="408.14191"
+       x2="66.006943"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12816"
+       data-name="Line 12816"
+       class="cls-9"
+       x1="87.50708"
+       y2="424.15302"
+       y1="413.44559"
+       x2="68.406982"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12817"
+       data-name="Line 12817"
+       class="cls-9"
+       x1="91.007103"
+       y2="429.35663"
+       y1="418.54916"
+       x2="71.907005"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12818"
+       data-name="Line 12818"
+       class="cls-9"
+       x1="94.107155"
+       y2="435.66101"
+       y1="424.85352"
+       x2="75.007004"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12819"
+       data-name="Line 12819"
+       class="cls-9"
+       x1="97.707153"
+       y2="442.26556"
+       y1="431.45807"
+       x2="78.607063"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12820"
+       data-name="Line 12820"
+       class="cls-9"
+       x1="101.40719"
+       y2="448.77008"
+       y1="438.06268"
+       x2="82.307098"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12821"
+       data-name="Line 12821"
+       class="cls-9"
+       x1="104.30724"
+       y2="454.87433"
+       y1="444.06686"
+       x2="85.107101"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12822"
+       data-name="Line 12822"
+       class="cls-9"
+       x1="107.60724"
+       y2="460.87851"
+       y1="450.07101"
+       x2="88.507088"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12823"
+       data-name="Line 12823"
+       class="cls-9"
+       x1="111.40725"
+       y2="467.58316"
+       y1="456.77563"
+       x2="92.307159"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12824"
+       data-name="Line 12824"
+       class="cls-9"
+       x1="114.50725"
+       y2="472.98688"
+       y1="462.17938"
+       x2="95.307175"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12825"
+       data-name="Line 12825"
+       class="cls-9"
+       x2="97.407166"
+       y2="625.49274"
+       x1="39.106815"
+       y1="518.61859"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12826"
+       data-name="Line 12826"
+       class="cls-9"
+       x2="116.40728"
+       y2="615.08545"
+       x1="58.106934"
+       y1="508.21133"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12827"
+       data-name="Line 12827"
+       class="cls-9"
+       x1="62.00692"
+       y2="525.92365"
+       y1="515.31622"
+       x2="43.40683"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12828"
+       data-name="Line 12828"
+       class="cls-9"
+       x1="65.506943"
+       y2="532.6283"
+       y1="521.82074"
+       x2="46.406849"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12829"
+       data-name="Line 12829"
+       class="cls-9"
+       x1="69.206978"
+       y2="539.03271"
+       y1="528.22522"
+       x2="50.106884"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12830"
+       data-name="Line 12830"
+       class="cls-9"
+       x1="73.607033"
+       y2="546.83813"
+       y1="536.03064"
+       x2="54.406898"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12831"
+       data-name="Line 12831"
+       class="cls-9"
+       x1="77.007011"
+       y2="553.84296"
+       y1="543.03546"
+       x2="57.906921"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12832"
+       data-name="Line 12832"
+       class="cls-9"
+       x1="80.807083"
+       y2="559.64703"
+       y1="548.83948"
+       x2="61.706932"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12833"
+       data-name="Line 12833"
+       class="cls-9"
+       x1="83.807106"
+       y2="565.85132"
+       y1="555.04382"
+       x2="64.706947"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12834"
+       data-name="Line 12834"
+       class="cls-9"
+       x1="86.307121"
+       y2="571.15503"
+       y1="560.34747"
+       x2="67.106987"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12835"
+       data-name="Line 12835"
+       class="cls-9"
+       x1="89.707108"
+       y2="576.25854"
+       y1="565.45105"
+       x2="70.60701"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12836"
+       data-name="Line 12836"
+       class="cls-9"
+       x1="92.907135"
+       y2="582.56293"
+       y1="571.75543"
+       x2="73.707008"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12837"
+       data-name="Line 12837"
+       class="cls-9"
+       x1="96.407158"
+       y2="589.16754"
+       y1="578.35999"
+       x2="77.307068"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12838"
+       data-name="Line 12838"
+       class="cls-9"
+       x1="100.10719"
+       y2="595.77209"
+       y1="584.9646"
+       x2="81.007042"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12839"
+       data-name="Line 12839"
+       class="cls-9"
+       x1="103.00717"
+       y2="601.77625"
+       y1="590.96875"
+       x2="83.907082"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12840"
+       data-name="Line 12840"
+       class="cls-9"
+       x1="106.40722"
+       y2="607.88043"
+       y1="597.073"
+       x2="87.307129"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12841"
+       data-name="Line 12841"
+       class="cls-9"
+       x1="110.10725"
+       y2="614.48511"
+       y1="603.67761"
+       x2="91.007103"
+       style="stroke-width:1.00035" />
+    <line
+       id="Line_12842"
+       data-name="Line 12842"
+       class="cls-9"
+       x1="113.20725"
+       y2="619.88879"
+       y1="609.1814"
+       x2="94.107155"
+       style="stroke-width:1.00035" />
+    <path
+       id="Path_17709"
+       data-name="Path 17709"
+       class="cls-15"
+       d="M 452.80937,579.6609" />
+    <g
+       id="Group_7450"
+       data-name="Group 7450"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <g
+         id="Group_7449"
+         data-name="Group 7449">
+        <path
+           id="Path_17710"
+           data-name="Path 17710"
+           class="cls-10"
+           d="m 980.9,406.9 -12.8,7.4 0.1,-29.5 12.7,-7.4 z" />
+        <path
+           id="Path_17711"
+           data-name="Path 17711"
+           class="cls-10"
+           d="m 955.4,406.9 12.7,7.4 0.1,-29.5 -12.8,-7.4 z" />
+      </g>
+      <path
+         id="Path_17712"
+         data-name="Path 17712"
+         class="cls-10"
+         d="m 980.9,377.4 -12.7,7.4 -12.8,-7.4 12.8,-7.3 z" />
+    </g>
+    <g
+       id="Group_7452"
+       data-name="Group 7452"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <g
+         id="Group_7451"
+         data-name="Group 7451">
+        <path
+           id="Path_17713"
+           data-name="Path 17713"
+           class="cls-10"
+           d="m 1120.7,487.3 -12.6,7.2 0.1,-29.7 12.8,-7.4 z" />
+        <path
+           id="Path_17714"
+           data-name="Path 17714"
+           class="cls-10"
+           d="m 1095.6,487.3 12.5,7.2 0.1,-29.7 -12.7,-7.4 z" />
+      </g>
+      <path
+         id="Path_17715"
+         data-name="Path 17715"
+         class="cls-10"
+         d="m 1121,457.4 -12.8,7.4 -12.7,-7.4 12.7,-7.4 z" />
+    </g>
+    <g
+       id="Group_7454"
+       data-name="Group 7454"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <g
+         id="Group_7453"
+         data-name="Group 7453">
+        <path
+           id="Path_17716"
+           data-name="Path 17716"
+           class="cls-10"
+           d="m 1222.9,428.8 -12.6,7.3 0.1,-29.8 12.8,-7.3 z" />
+        <path
+           id="Path_17717"
+           data-name="Path 17717"
+           class="cls-10"
+           d="m 1197.8,428.8 12.5,7.3 0.1,-29.8 -12.7,-7.3 z" />
+      </g>
+      <path
+         id="Path_17718"
+         data-name="Path 17718"
+         class="cls-10"
+         d="m 1223.2,399 -12.8,7.3 -12.7,-7.3 12.7,-7.4 z" />
+    </g>
+    <g
+       id="Group_7456"
+       data-name="Group 7456"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <g
+         id="Group_7455"
+         data-name="Group 7455">
+        <path
+           id="Path_17719"
+           data-name="Path 17719"
+           class="cls-10"
+           d="m 1082.9,348 -12.8,7.4 V 326 l 12.7,-7.3 z" />
+        <path
+           id="Path_17720"
+           data-name="Path 17720"
+           class="cls-10"
+           d="m 1057.4,348 12.7,7.4 V 326 l -12.8,-7.3 z" />
+      </g>
+      <path
+         id="Path_17721"
+         data-name="Path 17721"
+         class="cls-10"
+         d="m 1082.8,318.7 -12.7,7.3 -12.8,-7.3 12.8,-7.4 z" />
+    </g>
+    <g
+       id="Group_7458"
+       data-name="Group 7458"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <g
+         id="Group_7457"
+         data-name="Group 7457">
+        <path
+           id="Path_17722"
+           data-name="Path 17722"
+           class="cls-16"
+           d="m 829.9,231.9 h -24.4 v 94.9 0 c 0,3.9 5.5,7.1 12.2,7.1 6.7,0 12.2,-3.2 12.2,-7.1 v 0 z" />
+        <ellipse
+           id="Ellipse_1005"
+           data-name="Ellipse 1005"
+           class="cls-16"
+           cx="12.2"
+           cy="7.0999999"
+           rx="12.2"
+           ry="7.0999999"
+           transform="translate(805.5,224.7)" />
+      </g>
+      <path
+         id="Path_17723"
+         data-name="Path 17723"
+         class="cls-16"
+         d="m 829.9,245.7 c -0.6,3.6 -5.8,6.4 -12.1,6.4 -6.6,0 -12,-3.1 -12.2,-6.9 h -0.1 v 20.7 0 c 0,3.9 5.5,7.1 12.2,7.1 6.7,0 12.2,-3.2 12.2,-7.1 v 0 z" />
+      <path
+         id="Path_17724"
+         data-name="Path 17724"
+         class="cls-16"
+         d="m 829.9,284.7 c -0.6,3.6 -5.8,6.4 -12.1,6.4 -6.6,0 -12,-3.1 -12.2,-6.9 h -0.1 v 20.7 0 c 0,3.9 5.5,7.1 12.2,7.1 6.7,0 12.2,-3.2 12.2,-7.1 v 0 z" />
+    </g>
+    <g
+       id="Group_7460"
+       data-name="Group 7460"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <g
+         id="Group_7459"
+         data-name="Group 7459">
+        <path
+           id="Path_17725"
+           data-name="Path 17725"
+           class="cls-16"
+           d="m 864.7,210.5 h -24.4 v 94.9 0 c 0,3.9 5.5,7.1 12.2,7.1 6.7,0 12.2,-3.2 12.2,-7.1 v 0 z" />
+        <ellipse
+           id="Ellipse_1006"
+           data-name="Ellipse 1006"
+           class="cls-16"
+           cx="12.2"
+           cy="7.0999999"
+           rx="12.2"
+           ry="7.0999999"
+           transform="translate(840.4,203.2)" />
+      </g>
+      <path
+         id="Path_17726"
+         data-name="Path 17726"
+         class="cls-16"
+         d="m 864.7,227.4 c -0.6,3.6 -5.8,6.4 -12.1,6.4 -6.6,0 -12,-3.1 -12.2,-6.9 h -0.1 v 20.7 0 c 0,3.9 5.5,7.1 12.2,7.1 6.7,0 12.2,-3.2 12.2,-7.1 v 0 z" />
+      <path
+         id="Path_17727"
+         data-name="Path 17727"
+         class="cls-16"
+         d="m 864.7,266.6 c -0.6,3.6 -5.8,6.4 -12.1,6.4 -6.6,0 -12,-3.1 -12.2,-6.9 h -0.1 v 20.7 0 c 0,3.9 5.5,7.1 12.2,7.1 6.7,0 12.2,-3.2 12.2,-7.1 v 0 z" />
+    </g>
+    <g
+       id="Group_7466"
+       data-name="Group 7466"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <g
+         id="Group_7461"
+         data-name="Group 7461">
+        <path
+           id="Path_17728"
+           data-name="Path 17728"
+           class="cls-16"
+           d="m 879,337.7 33.9,-21.6 0.1,-0.1 c 1.5,-1 4.2,0.4 5.9,3.1 1.7,2.7 1.8,5.6 0.3,6.6 a 0.1,0.1 0 0 0 -0.1,0.1 l -33.9,21.6 z" />
+        <ellipse
+           id="Ellipse_1007"
+           data-name="Ellipse 1007"
+           class="cls-16"
+           cx="3.3"
+           cy="5.6999998"
+           rx="3.3"
+           ry="5.6999998"
+           transform="matrix(0.846,-0.533,0.533,0.846,876.292,339.432)" />
+      </g>
+      <g
+         id="Group_7462"
+         data-name="Group 7462">
+        <path
+           id="Path_17729"
+           data-name="Path 17729"
+           class="cls-16"
+           d="m 887.5,344.1 33.9,-21.6 0.1,-0.1 c 1.5,-1 4.2,0.4 5.9,3.1 1.7,2.7 1.8,5.6 0.3,6.6 a 0.1,0.1 0 0 0 -0.1,0.1 l -33.9,21.6 z" />
+        <ellipse
+           id="Ellipse_1008"
+           data-name="Ellipse 1008"
+           class="cls-16"
+           cx="3.3"
+           cy="5.6999998"
+           rx="3.3"
+           ry="5.6999998"
+           transform="matrix(0.846,-0.533,0.533,0.846,884.78,345.827)" />
+      </g>
+      <g
+         id="Group_7463"
+         data-name="Group 7463">
+        <path
+           id="Path_17730"
+           data-name="Path 17730"
+           class="cls-16"
+           d="m 886.4,333.4 33.9,-21.6 0.1,-0.1 c 1.5,-1 4.2,0.4 5.9,3.1 1.7,2.7 1.8,5.6 0.3,6.6 a 0.1,0.1 0 0 0 -0.1,0.1 l -34,21.5 z" />
+        <ellipse
+           id="Ellipse_1009"
+           data-name="Ellipse 1009"
+           class="cls-16"
+           cx="3.3"
+           cy="5.6999998"
+           rx="3.3"
+           ry="5.6999998"
+           transform="matrix(0.846,-0.533,0.533,0.846,883.703,335.131)" />
+      </g>
+      <g
+         id="Group_7464"
+         data-name="Group 7464">
+        <path
+           id="Path_17731"
+           data-name="Path 17731"
+           class="cls-16"
+           d="m 896.3,349.7 33.9,-21.6 0.1,-0.1 c 1.5,-1 4.2,0.4 5.9,3.1 1.7,2.7 1.8,5.6 0.3,6.6 a 0.1,0.1 0 0 0 -0.1,0.1 l -33.9,21.6 z" />
+        <ellipse
+           id="Ellipse_1010"
+           data-name="Ellipse 1010"
+           class="cls-16"
+           cx="3.3"
+           cy="5.6999998"
+           rx="3.3"
+           ry="5.6999998"
+           transform="matrix(0.846,-0.533,0.533,0.846,893.573,351.458)" />
+      </g>
+      <g
+         id="Group_7465"
+         data-name="Group 7465">
+        <path
+           id="Path_17732"
+           data-name="Path 17732"
+           class="cls-16"
+           d="m 894.9,339.5 33.9,-21.6 0.1,-0.1 c 1.5,-1 4.2,0.4 5.9,3.1 1.7,2.7 1.8,5.6 0.3,6.6 a 0.1,0.1 0 0 0 -0.1,0.1 l -34,21.6 z" />
+        <ellipse
+           id="Ellipse_1011"
+           data-name="Ellipse 1011"
+           class="cls-16"
+           cx="3.3"
+           cy="5.6999998"
+           rx="3.3"
+           ry="5.6999998"
+           transform="matrix(0.846,-0.533,0.533,0.846,892.204,341.32)" />
+      </g>
+    </g>
+    <g
+       id="Group_7467"
+       data-name="Group 7467"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <path
+         id="Path_17733"
+         data-name="Path 17733"
+         class="cls-8"
+         d="m 957.1,339.2 9.7,6.1 v -21.8 l -9.7,-6 z" />
+      <path
+         id="Path_17734"
+         data-name="Path 17734"
+         class="cls-8"
+         d="m 1004.8,323.6 -38,21.7 v -21.9 l 38,-21.6 z" />
+      <path
+         id="Path_17735"
+         data-name="Path 17735"
+         class="cls-8"
+         d="m 957.1,317.6 9.8,5.9 37.8,-21.7 -9.8,-5.9 z" />
+      <line
+         id="Line_12843"
+         data-name="Line 12843"
+         class="cls-8"
+         x1="0.1"
+         y2="21.1"
+         transform="translate(994.4,308.1)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12844"
+         data-name="Line 12844"
+         class="cls-8"
+         y2="21"
+         transform="translate(980.9,315.9)"
+         x1="0"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12845"
+         data-name="Line 12845"
+         class="cls-8"
+         x1="9.6000004"
+         y1="5.6999998"
+         transform="translate(984.8,301.8)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12846"
+         data-name="Line 12846"
+         class="cls-8"
+         x1="9.6000004"
+         y1="5.6999998"
+         transform="translate(971.2,309.7)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12847"
+         data-name="Line 12847"
+         class="cls-8"
+         x1="9.6999998"
+         y1="5.6999998"
+         transform="translate(957,325.3)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12848"
+         data-name="Line 12848"
+         class="cls-8"
+         x1="9.6999998"
+         y1="5.6999998"
+         transform="translate(957,332)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12849"
+         data-name="Line 12849"
+         class="cls-8"
+         x1="38"
+         y2="21.799999"
+         transform="translate(966.8,309.2)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12850"
+         data-name="Line 12850"
+         class="cls-8"
+         x1="38"
+         y2="21.700001"
+         transform="translate(966.6,316.1)"
+         y1="0"
+         x2="0" />
+    </g>
+    <g
+       id="Group_7468"
+       data-name="Group 7468"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <path
+         id="Path_17736"
+         data-name="Path 17736"
+         class="cls-8"
+         d="m 1037.8,355.2 -9.7,6 v -21.7 l 9.7,-6.1 z" />
+      <path
+         id="Path_17737"
+         data-name="Path 17737"
+         class="cls-8"
+         d="m 990.1,339.5 38,21.7 v -21.8 l -38,-21.7 z" />
+      <path
+         id="Path_17738"
+         data-name="Path 17738"
+         class="cls-8"
+         d="m 1037.8,333.5 -9.8,6 -37.8,-21.7 9.8,-6 z" />
+      <line
+         id="Line_12851"
+         data-name="Line 12851"
+         class="cls-8"
+         x2="0.1"
+         y2="21.200001"
+         transform="translate(1000.4,324)"
+         x1="0"
+         y1="0" />
+      <line
+         id="Line_12852"
+         data-name="Line 12852"
+         class="cls-8"
+         y2="21.1"
+         transform="translate(1014,331.8)"
+         x1="0"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12853"
+         data-name="Line 12853"
+         class="cls-8"
+         y1="5.6999998"
+         x2="9.6000004"
+         transform="translate(1000.5,317.7)"
+         x1="0"
+         y2="0" />
+      <line
+         id="Line_12854"
+         data-name="Line 12854"
+         class="cls-8"
+         y1="5.8000002"
+         x2="9.6000004"
+         transform="translate(1014.1,325.6)"
+         x1="0"
+         y2="0" />
+      <line
+         id="Line_12855"
+         data-name="Line 12855"
+         class="cls-8"
+         y1="5.8000002"
+         x2="9.6999998"
+         transform="translate(1028.2,341.2)"
+         x1="0"
+         y2="0" />
+      <line
+         id="Line_12856"
+         data-name="Line 12856"
+         class="cls-8"
+         y1="5.6999998"
+         x2="9.6999998"
+         transform="translate(1028.2,348)"
+         x1="0"
+         y2="0" />
+      <line
+         id="Line_12857"
+         data-name="Line 12857"
+         class="cls-8"
+         x2="38"
+         y2="21.700001"
+         transform="translate(990.1,325.2)"
+         x1="0"
+         y1="0" />
+      <line
+         id="Line_12858"
+         data-name="Line 12858"
+         class="cls-8"
+         x2="37.900002"
+         y2="21.799999"
+         transform="translate(990.4,332)"
+         x1="0"
+         y1="0" />
+    </g>
+    <g
+       id="Group_7469"
+       data-name="Group 7469"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <path
+         id="Path_17739"
+         data-name="Path 17739"
+         class="cls-8"
+         d="m 1137.2,425.7 -9.8,6 V 410 l 9.7,-6 z" />
+      <path
+         id="Path_17740"
+         data-name="Path 17740"
+         class="cls-8"
+         d="m 1089.4,410 38,21.7 0.1,-21.8 -38,-21.7 z" />
+      <path
+         id="Path_17741"
+         data-name="Path 17741"
+         class="cls-8"
+         d="m 1137.1,404.1 -9.7,5.9 -37.8,-21.7 9.7,-5.9 z" />
+      <line
+         id="Line_12859"
+         data-name="Line 12859"
+         class="cls-8"
+         y2="21.200001"
+         transform="translate(1099.8,394.5)"
+         x1="0"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12860"
+         data-name="Line 12860"
+         class="cls-8"
+         x2="0.1"
+         y2="21.1"
+         transform="translate(1113.3,402.3)"
+         x1="0"
+         y1="0" />
+      <line
+         id="Line_12861"
+         data-name="Line 12861"
+         class="cls-8"
+         y1="5.8000002"
+         x2="9.6999998"
+         transform="translate(1099.8,388.2)"
+         x1="0"
+         y2="0" />
+      <line
+         id="Line_12862"
+         data-name="Line 12862"
+         class="cls-8"
+         y1="5.6999998"
+         x2="9.6000004"
+         transform="translate(1113.4,396.2)"
+         x1="0"
+         y2="0" />
+      <line
+         id="Line_12863"
+         data-name="Line 12863"
+         class="cls-8"
+         y1="5.6999998"
+         x2="9.6999998"
+         transform="translate(1127.5,411.8)"
+         x1="0"
+         y2="0" />
+      <line
+         id="Line_12864"
+         data-name="Line 12864"
+         class="cls-8"
+         y1="5.6999998"
+         x2="9.6999998"
+         transform="translate(1127.5,418.5)"
+         x1="0"
+         y2="0" />
+      <line
+         id="Line_12865"
+         data-name="Line 12865"
+         class="cls-8"
+         x2="37.900002"
+         y2="21.799999"
+         transform="translate(1089.5,395.7)"
+         x1="0"
+         y1="0" />
+      <line
+         id="Line_12866"
+         data-name="Line 12866"
+         class="cls-8"
+         x2="38"
+         y2="21.799999"
+         transform="translate(1089.7,402.5)"
+         x1="0"
+         y1="0" />
+    </g>
+    <g
+       id="Group_7471"
+       data-name="Group 7471"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <g
+         id="Group_7470"
+         data-name="Group 7470">
+        <path
+           id="Path_17742"
+           data-name="Path 17742"
+           class="cls-10"
+           d="m 904,245.3 -12.6,7.2 0.1,-29.7 12.7,-7.4 z" />
+        <path
+           id="Path_17743"
+           data-name="Path 17743"
+           class="cls-10"
+           d="m 878.9,245.3 12.5,7.2 0.1,-29.7 -12.8,-7.4 z" />
+      </g>
+      <path
+         id="Path_17744"
+         data-name="Path 17744"
+         class="cls-10"
+         d="m 904.2,215.4 -12.7,7.4 -12.8,-7.4 12.8,-7.4 z" />
+    </g>
+    <g
+       id="Group_7473"
+       data-name="Group 7473"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <g
+         id="Group_7472"
+         data-name="Group 7472">
+        <path
+           id="Path_17745"
+           data-name="Path 17745"
+           class="cls-10"
+           d="m 674.6,377.5 -12.6,7.2 0.1,-29.7 12.8,-7.4 z" />
+        <path
+           id="Path_17746"
+           data-name="Path 17746"
+           class="cls-10"
+           d="m 649.5,377.5 12.5,7.2 0.1,-29.7 -12.7,-7.4 z" />
+      </g>
+      <path
+         id="Path_17747"
+         data-name="Path 17747"
+         class="cls-10"
+         d="m 674.9,347.6 -12.8,7.4 -12.7,-7.4 12.7,-7.3 z" />
+    </g>
+    <g
+       id="Group_7475"
+       data-name="Group 7475"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <g
+         id="Group_7474"
+         data-name="Group 7474">
+        <path
+           id="Path_17748"
+           data-name="Path 17748"
+           class="cls-10"
+           d="m 852.9,480.9 -12.6,7.2 0.1,-29.8 12.8,-7.3 z" />
+        <path
+           id="Path_17749"
+           data-name="Path 17749"
+           class="cls-10"
+           d="m 827.8,480.9 12.5,7.2 0.1,-29.8 -12.7,-7.3 z" />
+      </g>
+      <path
+         id="Path_17750"
+         data-name="Path 17750"
+         class="cls-10"
+         d="m 853.2,451 -12.8,7.3 -12.7,-7.3 12.7,-7.4 z" />
+    </g>
+    <path
+       id="Path_17751"
+       data-name="Path 17751"
+       class="cls-18"
+       d="m 179.20767,231.7195 -6.90004,4.00277 -8.40005,-4.9034 7.00004,-4.10285 z" />
+    <path
+       id="Path_17752"
+       data-name="Path 17752"
+       class="cls-18"
+       d="m 205.40783,248.03081 -7.00004,4.00278 -8.30005,-4.9034 6.90004,-4.10285 z" />
+    <path
+       id="Path_17753"
+       data-name="Path 17753"
+       class="cls-18"
+       d="m 237.40803,266.54366 -7.00004,4.10284 -8.30005,-5.00347 6.90004,-4.10284 z" />
+    <path
+       id="Path_17754"
+       data-name="Path 17754"
+       class="cls-18"
+       d="m 264.8082,283.7556 -7.00004,4.10285 -8.40005,-5.00348 7.00004,-4.00277 z" />
+    <g
+       id="Group_7476"
+       data-name="Group 7476"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <path
+         id="Path_17755"
+         data-name="Path 17755"
+         class="cls-8"
+         d="M 856,408.2 746.2,338.9 a 0.1,0.1 0 0 1 -0.1,-0.1 c -1.3,-0.8 -3.4,0.3 -4.8,2.5 -1.4,2.2 -1.5,4.6 -0.2,5.4 a 0.1,0.1 0 0 1 0.1,0.1 L 851,416.1 Z" />
+      <ellipse
+         id="Ellipse_1012"
+         data-name="Ellipse 1012"
+         class="cls-8"
+         cx="4.6999998"
+         cy="2.7"
+         rx="4.6999998"
+         ry="2.7"
+         transform="matrix(0.533,-0.846,0.846,0.533,848.637,414.653)" />
+    </g>
+    <g
+       id="Group_7477"
+       data-name="Group 7477"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <path
+         id="Path_17756"
+         data-name="Path 17756"
+         class="cls-8"
+         d="M 862.4,401.6 752.6,332.3 a 0.1,0.1 0 0 1 -0.1,-0.1 c -1.3,-0.8 -3.4,0.3 -4.8,2.5 -1.4,2.2 -1.5,4.6 -0.2,5.4 a 0.1,0.1 0 0 1 0.1,0.1 l 109.8,69.3 z" />
+      <ellipse
+         id="Ellipse_1013"
+         data-name="Ellipse 1013"
+         class="cls-8"
+         cx="4.6999998"
+         cy="2.7"
+         rx="4.6999998"
+         ry="2.7"
+         transform="matrix(0.533,-0.846,0.846,0.533,855.111,407.998)" />
+    </g>
+    <g
+       id="Group_7478"
+       data-name="Group 7478"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <path
+         id="Path_17757"
+         data-name="Path 17757"
+         class="cls-8"
+         d="M 879.6,392.4 769.8,323.1 a 0.1,0.1 0 0 1 -0.1,-0.1 c -1.3,-0.8 -3.4,0.3 -4.8,2.5 -1.4,2.2 -1.5,4.6 -0.2,5.4 a 0.1,0.1 0 0 1 0.1,0.1 l 109.8,69.3 z" />
+      <ellipse
+         id="Ellipse_1014"
+         data-name="Ellipse 1014"
+         class="cls-8"
+         cx="4.6999998"
+         cy="2.7"
+         rx="4.6999998"
+         ry="2.7"
+         transform="matrix(0.533,-0.846,0.846,0.533,872.341,398.887)" />
+    </g>
+    <g
+       id="Group_7479"
+       data-name="Group 7479"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <path
+         id="Path_17758"
+         data-name="Path 17758"
+         class="cls-8"
+         d="M 870.8,396.6 761,327.3 a 0.1,0.1 0 0 1 -0.1,-0.1 c -1.3,-0.8 -3.4,0.3 -4.8,2.5 -1.4,2.2 -1.5,4.6 -0.2,5.4 a 0.1,0.1 0 0 1 0.1,0.1 l 109.8,69.3 z" />
+      <ellipse
+         id="Ellipse_1015"
+         data-name="Ellipse 1015"
+         class="cls-8"
+         cx="4.6999998"
+         cy="2.7"
+         rx="4.6999998"
+         ry="2.7"
+         transform="matrix(0.533,-0.846,0.846,0.533,863.556,403.087)" />
+    </g>
+    <path
+       id="Path_17759"
+       data-name="Path 17759"
+       class="cls-18"
+       d="m 221.50793,234.72158 -3.50002,-2.20153 v -21.81514 l 3.50002,2.20153 z" />
+    <path
+       id="Path_17760"
+       data-name="Path 17760"
+       class="cls-18"
+       d="m 196.90778,219.9113 -3.50002,-2.10146 v -21.81513 l 3.50002,2.10146 z" />
+    <path
+       id="Path_17761"
+       data-name="Path 17761"
+       class="cls-18"
+       d="m 250.70812,252.03359 -3.50003,-2.10146 v -21.9152 l 3.50003,2.20152 z" />
+    <path
+       id="Path_17762"
+       data-name="Path 17762"
+       class="cls-18"
+       d="m 278.50829,267.54435 -3.50002,-2.20153 v -21.81513 l 3.50002,2.20153 z" />
+    <g
+       id="Group_7480"
+       data-name="Group 7480"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <path
+         id="Path_17763"
+         data-name="Path 17763"
+         class="cls-8"
+         d="M 862,392.2 752.2,323 a 0.1,0.1 0 0 1 -0.1,-0.1 c -1.3,-0.8 -3.4,0.3 -4.8,2.5 -1.4,2.2 -1.5,4.6 -0.2,5.4 a 0.1,0.1 0 0 1 0.1,0.1 L 857,400.2 Z" />
+      <ellipse
+         id="Ellipse_1016"
+         data-name="Ellipse 1016"
+         class="cls-8"
+         cx="4.6999998"
+         cy="2.7"
+         rx="4.6999998"
+         ry="2.7"
+         transform="matrix(0.533,-0.846,0.846,0.533,854.671,398.746)" />
+    </g>
+    <g
+       id="Group_7481"
+       data-name="Group 7481"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <path
+         id="Path_17764"
+         data-name="Path 17764"
+         class="cls-8"
+         d="M 873.1,386.7 763.3,317.4 a 0.1,0.1 0 0 1 -0.1,-0.1 c -1.3,-0.8 -3.4,0.3 -4.8,2.5 -1.4,2.2 -1.5,4.6 -0.2,5.4 a 0.1,0.1 0 0 1 0.1,0.1 l 109.8,69.3 z" />
+      <ellipse
+         id="Ellipse_1017"
+         data-name="Ellipse 1017"
+         class="cls-8"
+         cx="4.6999998"
+         cy="2.7"
+         rx="4.6999998"
+         ry="2.7"
+         transform="matrix(0.533,-0.846,0.846,0.533,865.844,393.209)" />
+    </g>
+    <g
+       id="Group_7482"
+       data-name="Group 7482"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <path
+         id="Path_17765"
+         data-name="Path 17765"
+         class="cls-8"
+         d="M 861.6,385.2 751.8,315.9 a 0.1,0.1 0 0 1 -0.1,-0.1 c -1.3,-0.8 -3.4,0.3 -4.8,2.5 -1.4,2.2 -1.5,4.6 -0.2,5.4 a 0.1,0.1 0 0 1 0.1,0.1 l 109.8,69.3 z" />
+      <ellipse
+         id="Ellipse_1018"
+         data-name="Ellipse 1018"
+         class="cls-8"
+         cx="4.6999998"
+         cy="2.7"
+         rx="4.6999998"
+         ry="2.7"
+         transform="matrix(0.533,-0.846,0.846,0.533,854.208,391.651)" />
+    </g>
+    <g
+       id="Group_7483"
+       data-name="Group 7483"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <path
+         id="Path_17766"
+         data-name="Path 17766"
+         class="cls-8"
+         d="M 856.8,398.1 747,328.8 a 0.1,0.1 0 0 1 -0.1,-0.1 c -1.3,-0.8 -3.4,0.3 -4.8,2.5 -1.4,2.2 -1.5,4.6 -0.2,5.4 a 0.1,0.1 0 0 1 0.1,0.1 L 851.8,406 Z" />
+      <ellipse
+         id="Ellipse_1019"
+         data-name="Ellipse 1019"
+         class="cls-8"
+         cx="4.6999998"
+         cy="2.7"
+         rx="4.6999998"
+         ry="2.7"
+         transform="matrix(0.533,-0.846,0.846,0.533,849.471,404.503)" />
+    </g>
+    <path
+       id="Path_17767"
+       data-name="Path 17767"
+       class="cls-18"
+       d="m 170.70762,234.72158 -3.40002,-2.20153 v -21.81514 l 3.40002,2.20153 z" />
+    <path
+       id="Path_17768"
+       data-name="Path 17768"
+       class="cls-18"
+       d="m 196.90778,251.0329 -3.50002,-2.20153 v -21.81514 l 3.50002,2.10146 z" />
+    <path
+       id="Path_17769"
+       data-name="Path 17769"
+       class="cls-18"
+       d="m 228.90798,269.54574 -3.50002,-2.20153 v -21.81513 l 3.50002,2.20152 z" />
+    <path
+       id="Path_17770"
+       data-name="Path 17770"
+       class="cls-18"
+       d="m 255.40814,286.45747 -3.40002,-2.10145 v -21.81514 l 3.40002,2.10146 z" />
+    <g
+       id="Group_7484"
+       data-name="Group 7484"
+       transform="matrix(1.0000062,0,0,1.0006943,-579.19703,-122.32615)">
+      <line
+         id="Line_12867"
+         data-name="Line 12867"
+         class="cls-19"
+         x1="40.599998"
+         y2="22.9"
+         transform="translate(900.1,439.9)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12868"
+         data-name="Line 12868"
+         class="cls-19"
+         x1="39.400002"
+         y2="22.200001"
+         transform="translate(900.4,485.5)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12869"
+         data-name="Line 12869"
+         class="cls-19"
+         x1="39.400002"
+         y2="22.200001"
+         transform="translate(900.4,463.1)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12870"
+         data-name="Line 12870"
+         class="cls-19"
+         x2="0.5"
+         y2="346.5"
+         transform="translate(900.5,434.2)"
+         x1="0"
+         y1="0" />
+      <line
+         id="Line_12871"
+         data-name="Line 12871"
+         class="cls-19"
+         x2="0.69999999"
+         y2="317.20001"
+         transform="translate(939.5,462.9)"
+         x1="0"
+         y1="0" />
+      <line
+         id="Line_12872"
+         data-name="Line 12872"
+         class="cls-19"
+         x1="39.099998"
+         y1="22.6"
+         transform="translate(901,485.2)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12873"
+         data-name="Line 12873"
+         class="cls-19"
+         x1="39.099998"
+         y1="22.6"
+         transform="translate(900.3,463.3)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12874"
+         data-name="Line 12874"
+         class="cls-19"
+         x1="39.099998"
+         y1="22.6"
+         transform="translate(900.3,440.8)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12875"
+         data-name="Line 12875"
+         class="cls-19"
+         x1="39.099998"
+         y1="22.6"
+         transform="translate(900.9,507.7)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12876"
+         data-name="Line 12876"
+         class="cls-19"
+         x1="39.099998"
+         y1="22.6"
+         transform="translate(900.9,530.3)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12877"
+         data-name="Line 12877"
+         class="cls-19"
+         x1="39.099998"
+         y1="22.6"
+         transform="translate(900.6,552.7)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12878"
+         data-name="Line 12878"
+         class="cls-19"
+         x1="39.200001"
+         y1="22.6"
+         transform="translate(900.6,574.3)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12879"
+         data-name="Line 12879"
+         class="cls-19"
+         x1="39.200001"
+         y2="22.5"
+         transform="translate(900.9,507.8)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12880"
+         data-name="Line 12880"
+         class="cls-19"
+         x1="39.200001"
+         y2="22.5"
+         transform="translate(900.4,530.2)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12881"
+         data-name="Line 12881"
+         class="cls-19"
+         x1="39.200001"
+         y2="22.5"
+         transform="translate(901.1,552.4)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12882"
+         data-name="Line 12882"
+         class="cls-19"
+         x1="39.200001"
+         y2="22.6"
+         transform="translate(901.1,575.2)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12883"
+         data-name="Line 12883"
+         class="cls-19"
+         x1="39.200001"
+         y1="22.6"
+         transform="translate(901.1,597.3)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12884"
+         data-name="Line 12884"
+         class="cls-19"
+         x1="39.099998"
+         y1="22.6"
+         transform="translate(901.1,619.5)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12885"
+         data-name="Line 12885"
+         class="cls-19"
+         x1="39.200001"
+         y2="22.5"
+         transform="translate(900.6,597.4)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12886"
+         data-name="Line 12886"
+         class="cls-19"
+         x1="39.200001"
+         y2="22.5"
+         transform="translate(900.4,619.5)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12887"
+         data-name="Line 12887"
+         class="cls-19"
+         x1="39.099998"
+         y1="22.5"
+         transform="translate(901.1,641.9)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12888"
+         data-name="Line 12888"
+         class="cls-19"
+         x1="39.200001"
+         y2="22.5"
+         transform="translate(900.4,641.9)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12889"
+         data-name="Line 12889"
+         class="cls-19"
+         x1="39.099998"
+         y1="22.6"
+         transform="translate(900.8,664.3)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12890"
+         data-name="Line 12890"
+         class="cls-19"
+         x1="39.200001"
+         y2="22.5"
+         transform="translate(900.1,664.3)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12891"
+         data-name="Line 12891"
+         class="cls-19"
+         x1="39.099998"
+         y1="22.6"
+         transform="translate(901,686.7)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12892"
+         data-name="Line 12892"
+         class="cls-19"
+         x1="39.099998"
+         y1="22.6"
+         transform="translate(901.1,709)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12893"
+         data-name="Line 12893"
+         class="cls-19"
+         x1="39.099998"
+         y1="22.6"
+         transform="translate(901.1,731.9)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12894"
+         data-name="Line 12894"
+         class="cls-19"
+         x1="39.200001"
+         y1="22.6"
+         transform="translate(901.1,753.9)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12895"
+         data-name="Line 12895"
+         class="cls-19"
+         x1="20.1"
+         y1="11.6"
+         transform="translate(900.6,776.4)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12896"
+         data-name="Line 12896"
+         class="cls-19"
+         x1="39.200001"
+         y2="22.6"
+         transform="translate(900.3,686.7)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12897"
+         data-name="Line 12897"
+         class="cls-19"
+         x1="39.200001"
+         y2="22.5"
+         transform="translate(900.8,709.5)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12898"
+         data-name="Line 12898"
+         class="cls-19"
+         x1="39.099998"
+         y2="22.5"
+         transform="translate(900.6,731.9)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12899"
+         data-name="Line 12899"
+         class="cls-19"
+         x1="19.700001"
+         y2="11.3"
+         transform="translate(920.6,776.1)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12900"
+         data-name="Line 12900"
+         class="cls-19"
+         x1="39.200001"
+         y2="22.5"
+         transform="translate(901.1,754.6)"
+         y1="0"
+         x2="0" />
+      <path
+         id="Path_17771"
+         data-name="Path 17771"
+         class="cls-20"
+         d="m 940,440.1 -20.1,12 -19.4,-11.4 19.4,-11.3 z" />
+      <line
+         id="Line_12901"
+         data-name="Line 12901"
+         class="cls-19"
+         x2="0.80000001"
+         y2="320.60001"
+         transform="translate(919.8,444.9)"
+         x1="0"
+         y1="0" />
+      <line
+         id="Line_12902"
+         data-name="Line 12902"
+         class="cls-19"
+         x1="0.5"
+         y2="28.9"
+         transform="translate(939.5,434)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12903"
+         data-name="Line 12903"
+         class="cls-20"
+         x1="0.30000001"
+         y2="5.5"
+         transform="translate(919.9,423.9)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12904"
+         data-name="Line 12904"
+         class="cls-21"
+         x2="19.299999"
+         y2="11.4"
+         transform="translate(900.5,434.2)"
+         x1="0"
+         y1="0" />
+      <line
+         id="Line_12905"
+         data-name="Line 12905"
+         class="cls-22"
+         x1="20.200001"
+         y2="11.6"
+         transform="translate(919.8,434)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12906"
+         data-name="Line 12906"
+         class="cls-21"
+         x2="19.9"
+         y2="10.5"
+         transform="translate(920.2,423.9)"
+         x1="0"
+         y1="0" />
+      <path
+         id="Path_17772"
+         data-name="Path 17772"
+         class="cls-23"
+         d="m 969.7,776.5 -34.7,20.2 -24.4,-14 33.9,-19.6 z" />
+      <line
+         id="Line_12907"
+         data-name="Line 12907"
+         class="cls-24"
+         y2="16.200001"
+         transform="translate(910.6,766.5)"
+         x1="0"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12908"
+         data-name="Line 12908"
+         class="cls-24"
+         y1="16.200001"
+         x2="0.1"
+         transform="translate(935,780.5)"
+         x1="0"
+         y2="0" />
+      <line
+         id="Line_12909"
+         data-name="Line 12909"
+         class="cls-24"
+         x1="0.2"
+         y1="15.1"
+         transform="translate(944.3,748)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12910"
+         data-name="Line 12910"
+         class="cls-24"
+         y1="15"
+         transform="translate(969.7,761.5)"
+         x1="0"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12911"
+         data-name="Line 12911"
+         class="cls-25"
+         x2="24.5"
+         y2="14"
+         transform="translate(910.6,766.5)"
+         x1="0"
+         y1="0" />
+      <line
+         id="Line_12912"
+         data-name="Line 12912"
+         class="cls-24"
+         x2="24.1"
+         y2="13.7"
+         transform="translate(910.6,775.1)"
+         x1="0"
+         y1="0" />
+      <line
+         id="Line_12913"
+         data-name="Line 12913"
+         class="cls-24"
+         x2="25.299999"
+         y2="14.2"
+         transform="translate(944.4,755.5)"
+         x1="0"
+         y1="0" />
+      <line
+         id="Line_12914"
+         data-name="Line 12914"
+         class="cls-25"
+         y1="18.700001"
+         x2="33.700001"
+         transform="translate(910.6,748)"
+         x1="0"
+         y2="0" />
+      <line
+         id="Line_12915"
+         data-name="Line 12915"
+         class="cls-25"
+         y1="18.799999"
+         x2="33.799999"
+         transform="translate(935.9,761.5)"
+         x1="0"
+         y2="0" />
+      <line
+         id="Line_12916"
+         data-name="Line 12916"
+         class="cls-24"
+         y1="19.200001"
+         x2="34.599998"
+         transform="translate(935.1,769.7)"
+         x1="0"
+         y2="0" />
+      <line
+         id="Line_12917"
+         data-name="Line 12917"
+         class="cls-25"
+         x1="25.4"
+         y1="13.1"
+         transform="translate(944.3,748)"
+         x2="0"
+         y2="0" />
+      <line
+         id="Line_12918"
+         data-name="Line 12918"
+         class="cls-26"
+         x1="0.1"
+         y2="15"
+         transform="translate(952.8,771.3)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12919"
+         data-name="Line 12919"
+         class="cls-26"
+         x1="0.1"
+         y2="15.8"
+         transform="translate(922.4,773.5)"
+         y1="0"
+         x2="0" />
+      <line
+         id="Line_12920"
+         data-name="Line 12920"
+         class="cls-26"
+         x1="0.1"
+         y2="15.3"
+         transform="translate(955.4,753.6)"
+         y1="0"
+         x2="0" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd build
+ln -s ../../backend/public/index.php .
+
